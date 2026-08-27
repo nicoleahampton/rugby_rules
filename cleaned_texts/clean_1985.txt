@@ -1,0 +1,930 @@
+The LAWS OF THE GAME OF RUGBY FOOTBALL with INSTRUCTIONS AND NOTES ON THE LAWS as framed by The International Rugby Football Board. © International Rugby Football Board. Front Cover photograph by Colorsport.
+
+CONTENTS
+
+Foreword
+Object of the Game
+Declaration of Amateurism
+Definitions
+1. Ground
+2. Ball
+3. Number of Players
+4. Players’ Dress
+5. Toss, Time
+6. Referee and Touch Judges
+7. Mode of Play
+8. Advantage
+9. Ball or Player Touching Referee
+10. Kick-off
+11. Method of Scoring
+12. Try and Touch-down
+13. Kick at Goal after a Try
+14. In-goal
+15. Drop-out
+16. Fair-catch (Mark)
+17. Knock-on or Throw-forward
+18. Tackle
+19. Lying with, on or near the ball
+20. Scrummage
+21. Ruck
+22. Maul
+23. Touch and Line-out
+24. Off-side
+A. In General Play
+B. At Scrummage
+C. At Ruck or Maul
+D. At Line-out
+25. On-side
+26. Foul Play
+27. Penalty Kick
+28. Free Kick
+Index
+IRFB Directives
+RFU Rulings
+
+FOR YOUR INFORMATION
+1) Law changes are indicated by a black line in the left-hand margin.
+2) The “Notes to the Laws” have been placed next to the individual Law to which the Note pertains. The Laws are printed in black with associated penalties in red; the Notes are in blue. To avoid confusion the numbers designating each note are in ROMAN instead of ARABIC numerals.
+3) E indicates an Experimental Variation.
+EXPLANATION: The “Experimental Variations” are intended to minimise the possibility of accidental injury during the formation and setting of a scrummage and particularly to reduce the possibility of the front rows collapsing. A crouched position and a “normal stance” are seen as important components of this intent and should be viewed as such. Although normal stance is not defined, it would involve a player facing his opponents squarely, being correctly bound, with shoulders not lower than hips, both feet on the ground and not crossed until the ball has been put in. In considering this intention, the requirement of Law 20 (14) (b), that players in the front rows must not at any time during the scrummage wilfully adopt any position which is likely to cause the scrummage to collapse, should also be noted. With the Experimental Variations it is for the referee to decide, under the conditions applicable at the time, whether players may be “likely to cause the scrummage to collapse” through the stance they adopt after the front rows have engaged.
+
+FOREWORD
+The Laws of the Game are complete and contain all that is necessary to enable the game to be played correctly and fairly. Nevertheless, in a complex game where so many diverse situations can arise, the Board finds it necessary to instruct all concerned as to the meaning and effect of some of the Laws, and to add emphasis to duties which the Laws place on the referee. This is all the more necessary because lack of uniformity in referees’ decisions is bad for the game.
+These Instructions and Notes are, therefore, issued by the International Rugby Football Board so that all concerned in every country may follow a consistent and uniform practice.
+It is the duty of the referee (Law 6A(3)) to apply fairly the Laws of the Game without any variation or omission. Equally, the referee is obliged to follow the instructions and guide-lines herein laid down by the International Board.
+
+LAWS OF THE GAME OF RUGBY FOOTBALL
+OBJECT OF THE GAME
+The Object of the Game is that two teams of fifteen players each, observing fair play according to the Laws and a sporting spirit, should by carrying, passing, and kicking the ball score as many points as possible, the team scoring the greater number of points to be the winner of the match.
+
+DECLARATION OF AMATEURISM
+The game is an amateur game. No one is allowed to seek or to receive payment or other material reward for taking part in the Game.
+
+DEFINITIONS
+The following terms have the meaning assigned to them:
+Beyond or Behind or In front of any position implies “with both feet”, except when unsuited to the context.
+Dead means that the ball is for the time being out of play. This occurs when the referee blows his whistle to indicate a stoppage of play or when an attempt to convert a try is unsuccessful.
+Defending Team means the team in whose half of the ground the stoppage of play occurs and the opponents of the defending team are referred to as “the Attacking Team”.
+Kick. A kick is made by propelling the ball with part of the leg or foot (except the heel), from the knee to toe inclusive. If the player is holding the ball, he must propel it out of his hands, or if it is on the ground, he must propel it a visible distance.
+Drop Kick. A drop kick is made by letting the ball fall from the hand (or hands) to the ground and kicking it at the first rebound as it rises.
+Place Kick. A place kick is made by kicking the ball after it has been placed on the ground for that purpose.
+Punt. A punt is made by letting the ball fall from the hand (or hands) and kicking it before it touches the ground.
+Mark. The mark is the place at which a free kick or penalty kick is awarded.
+Line Through the Mark (or Place). Except where specifically stated otherwise, the words “a line through the mark” or “a line through the place” always means a line parallel to the touch line.
+Union means the controlling body under whose jurisdiction the match is played and in the case of an International Match it means the International Rugby Football Board or a Committee thereof.
+Other definitions are included in and have effect as part of the Laws.
+
+LAW 1. GROUND.
+The field-of-play is the area as shown on the plan, bounded by, but not including, the goal lines and touch lines.
+The playing area is the field-of-play and In-goal. The playing enclosure is the playing area and a reasonable area surrounding it.
+The Plan, including all words and figures thereon, is to take effect as part of these Laws.
+The Terms appearing on the Plan are to bear their apparent meaning and to be deemed part of the definitions as if separately included.
+(1) All lines shown on the plan must be suitably marked out. The touch lines are in touch. The goal lines are In-goal. The dead-ball line is not in In-goal. The touch-in-goal lines and corner posts are in touch-in-goal. The goal posts are to be erected in the goal lines.
+(2) The game must be played on a ground of the area (maximum) shown on the plan and marked in accordance with the plan. The surface must be grass-covered or, where this is not available, clay or sand, provided the surface is not of dangerous hardness.
+(3) Any objection by the visiting team about the ground or the way in which it is marked out must be made to the referee before the first kick-off.
+NOTES. f indicates post with flag. Length and breadth of field to be as near to dimensions indicated as possible. All areas to be rectangular. These broken lines indicate 10 metres distance from the halfway line and 5 metres distance from the touch lines. These lines at the goal lines and intersecting the 22 metres and 10 metres lines and the halfway line are 15 metres from the touch lines. The lines at the goal lines extend 5 metres into the field of play. Goal dimensions:—3 metres is taken from the ground to the top edge of the crossbar and 5.60 metres inside to inside of the goal posts. A minimum height of 1.20 metres above the ground is desirable for corner posts.
+NOTE: Advertising on the surface of the playing area is not permitted.
+
+LAW 2. BALL.
+(1) The ball when new shall be oval in shape, of four panels and of the following dimensions:
+Length in line: 280 to 300 mm.
+Circumference (end on): 760 to 790 mm.
+Circumference (in width): 580 to 620 mm.
+Weight: 400 to 440 grms.
+NOTE: (i) The ball, at commencement of play, should have a pressure equivalent to 9 ½ - 10 lb. per square inch (0.6697 - 0.7031 kilograms per square centimetre) at sea level.
+(2) The dimensions of the ball may be reduced only for younger schoolboys.
+(3) Balls may be specially treated to make them resistant to mud and easier to grip. The casings need not be of leather.
+NOTE: (ii) It is permissible to have spare balls available during a match, but a team may not gain or attempt to gain an unfair advantage through their use or by changing them.
+
+LAW 3. NUMBER OF PLAYERS.
+(1) A match shall be played by not more than fifteen players in each team.
+(2) Replacement of players shall be allowed in recognised trial matches as determined by the Unions having jurisdiction over the match.
+(3) In all other matches, a player may be replaced only on account of injury and subject to the following conditions:
+(a) Not more than two players in each team may be replaced. Exception: In matches between teams of schoolboys or teams where all players are under the age of 19, up to six players may be replaced.
+(b) A player who has been replaced must NOT resume playing in the match.
+(4) (a) In matches in which a national representative team is playing, a player may be replaced ONLY when, in the opinion of a medical practitioner, the player is so injured that he should not continue playing in the match.
+(b) For such competition and other domestic matches as a Union gives express permission an injured player may be replaced:
+• on the advice of a medically-trained person, or
+• if a medically-trained person is not present; with the approval of the referee.
+(5) If the referee is advised by a doctor or other medically trained person or for any other reason considers that a player is so injured that it would be harmful for him to continue playing, the referee shall require the player to leave the playing area.
+(6) Any objection by either team as regards the number of players in a team may be made to the referee at any time but the objection shall not affect any score previously obtained.
+NOTE: (i) As soon as a referee becomes aware that a team has more than the correct number of players on the field, he must require the captain of that team to reduce the number of players appropriately. Attention is drawn to IRB Resolution 7.6 which states that “A player who has suffered definite concussion should not participate in any match or training for a period of at least three weeks from the time of the injury, and then only subject to being cleared by a proper neurological examination.”
+
+LAW 4. PLAYERS’ DRESS.
+(1) A player must not wear dangerous projections such as buckles or rings.
+(2) Shoulder pads of the “harness” type must not be worn. If the referee is satisfied that a player requires protection following an injury to a shoulder, the wearing of a pad of cottonwool, sponge rubber or similar soft material may be permitted provided the pad is attached to the body or sewn on to the jersey.
+(3) Studs of a player’s boots must conform to the British Standard BS 6366 : 1983. They must be circular, securely fastened to the boots and of the following dimensions:
+Length (maximum): 18 mm (measured from sole)
+Diameter at base (minimum): 13 mm
+Diameter at top (minimum): 10 mm
+Minimum diameter of washer: 20 mm (if separate from stud)
+The wearing of a single stud at the toe of a boot is prohibited.
+(4) The referee has power to decide before or during the match that any part of a player’s dress is dangerous. He must then order the player to remove the dangerous part and permit him to resume playing in the match only after it has been removed.
+
+LAW 5. TOSS, TIME.
+No-side is the end of a match.
+(1) Before a match begins the captains shall toss for the right to kick-off, or the choice of ends.
+(2) The duration of play in a match shall be such time not exceeding eighty minutes as shall be directed by the Union or, in the absence of such direction, as agreed upon by the teams or, if not agreed, as fixed by the referee. In International matches two periods of forty minutes each shall be played.
+NOTE: (i) The term “not exceeding eighty minutes” excludes any extra time which the Union may direct or authorise to be played in the case of a drawn match in a knock-out competition.
+(3) Play shall be divided into two halves. At half-time the teams shall change ends and there shall be an interval of not more than five minutes.
+(4) A period not exceeding one minute shall be allowed for treatment of an injury to a player or for any other permitted delay. A longer period may be allowed only if the additional time is required for the removal of an injured player from the playing area. Playing time lost as a result of any such permitted delay or of delay in taking a kick at goal shall be made up in that half of the match in which the delay occurred, subject to the power vested in the referee to declare no-side before time has expired.
+NOTE: (ii) The referee must make up lost time through any delay in taking a kick at goal. This applies whether or not the referee considers the delay to be “undue delay” on the part of the kicker. Playing time lost should begin from 40 seconds after the player has indicated his intention to kick at goal.
+
+LAW 6. REFEREE AND TOUCH JUDGES.
+A. Referee.
+(1) There shall be a referee for every match. He shall be appointed by or under the authority of the Union or, in case no such authorised referee has been appointed, a referee may be mutually agreed upon between the teams or, failing such agreement, he shall be appointed by the home team.
+(2) If the referee is unable to officiate for the whole period of a match a replacement shall be appointed either in such manner as may be directed by the Union, or in the absence of such direction, by the referee or, if he is unable to do so, by the home team.
+(3) The referee shall keep the time and the score, and he must in every match apply fairly the Laws of the Game without any variation or omission, except only when the Union has authorised the application of an experimental law approved by the International Board.
+NOTES: (i) If the referee is in doubt as to the correct time he should consult either or both of the touch judges. Only if the information given by them is insufficient may he consult another person. (ii) Where the referee allows time for delays the time must be made up in the half of the match in which the delay occurs. (iii) The referee has power to declare no-side before time has expired if, in his opinion, the full time cannot for any reason be played or continuance of play would be dangerous. (iv) Where a player is injured, the referee should not allow more than one minute’s delay unless a longer period is necessary to remove the player, or to give essential treatment on the playing area. (v) The referee should not allow time for injury if he has reason to believe that a player is feigning injury. In such circumstances he should order the player to be removed immediately from the playing area and then order play to be resumed forthwith. (vi) The referee should, when the ball is dead, allow time for a player to replace or repair a badly torn jersey or shorts. He must not allow time for a player to retie or repair a bootlace.
+(4) He must not give any instruction or advice to either team prior to the match. During the match he must not consult with anyone except only:
+(a) either or both touch judges on a point of fact relevant to their functions, or on matters relating to Law 26 (3), or
+(b) in regard to time.
+(5) The referee is the sole judge of fact and of law. All his decisions are binding on the players. He cannot alter a decision except when given before he observes that a touch judge’s flag is raised or before he has received a report related to Law 26(3) from a touch judge.
+(6) The referee must carry a whistle and must blow it:
+(a) to indicate the beginning of the match, half-time, resumption of play after half-time, no-side, a score or a touch-down, and
+(b) to stop play because of infringement or otherwise as required by the Laws.
+NOTES: (vii) The referee has power to stop the match at any time by blowing his whistle but he must not do so except on the occasions indicated in Law 6 A (6) which include the following: (a) when he orders a scrummage; (b) when the ball has gone into touch or touch-in-goal, or touched or crossed the dead-ball lines; (c) when the ball has been grounded in In-goal; (d) when the ball is unplayable; (e) when he stops for an offence under Law 26 (3) prior to ordering off or cautioning the offender; and in such a case must whistle a second time when he awards the penalty try or kick; (f) when he awards a penalty kick or free kick; (g) when he allows a fair-catch; (h) when the ball or player carrying it has touched him and one team has therefrom gained an advantage; (i) when a player is injured but only when the ball next becomes dead unless (j) below applies; (j) when continuance of play would be dangerous, including the collapse of a scrummage. (viii) The referee should whistle for half-time or no-side as soon as time has expired if the ball be dead or if the ball be in play when the time has expired, as soon as the ball next becomes dead. If the ball becomes dead after time has expired: (a) as the result of a try the referee shall allow the kick to be taken and then whistle for half-time or no-side, or if it be (b) as the result of a fair catch, free kick or penalty kick the referee shall allow play to proceed until the ball next becomes dead. If time expires before the ball is put into a scrummage or is thrown in from touch, the referee must whistle for half-time, or no-side.
+(7) During a match no person other than the players, the referee and the touch judges may be within the playing enclosure or the playing area unless with the permission of the referee which shall be given only for a special and temporary purpose.
+NOTE: (ix) The referee should, when necessary, but not before he indicates his permission, allow baggage attendants and doctors or first aid personnel to enter the playing enclosure and playing area. He should be strict in refusing permission to persons intending to give advice or instructions to a team, and players should not be allowed to leave the playing area to get advice or instructions. Latitude should, however, be allowed in recognised trial matches.
+(8) (a) All players must respect the authority of the referee and they must not dispute his decisions. They must (except in the case of a kick-off) stop playing at once when the referee has blown his whistle.
+(b) A player must when so requested whether before or during the match, allow the referee to inspect his dress.
+(c) A player must not leave the playing enclosure without the referee’s permission. If a player retires during a match because of injury or otherwise, he must not resume playing in that match until the referee has given his permission.
+NOTES: (x) Apart from injury the referee should not allow a player to leave the playing enclosure except in special circumstances. The referee should not permit a player to resume until the ball is dead. (xi) The referee must not permit a team or individual players to leave the playing area in order to change jerseys. (xii) If a player who has retired on account of injury or other reason resumes playing without the permission of the referee, the referee should impose penalties for misconduct if he considers that the offence was wilful for the purpose of assisting his team or obstructing the opponents. If the offence was not wilful interference and if the offending team gains an advantage the referee should order a scrummage at the place where the player resumed playing without permission, and the opposing team shall put in the ball. Penalty: Infringement by a player is subject to penalty as misconduct.
+
+B. Touch Judges.
+(1) There shall be two touch judges for every match. Unless touch judges have been appointed by or under the authority of the Union, it shall be the responsibility of each team to provide a touch judge.
+(2) A touch judge is under the control of the referee who may instruct him as to his duties and may over-rule any of his decisions. The referee may request that an unsatisfactory touch judge be replaced and he has power to order off and report to the Union a touch judge who in his opinion is guilty of misconduct.
+(3) Each touch judge shall carry a flag (or other suitable object) to signal his decisions. There shall be one touch judge on each side of the ground and he shall remain in touch except when judging a kick at goal.
+(4) He must hold up his flag when the ball or a player carrying it has gone into touch and must indicate the place of throw in and which team is entitled to do so. He must also signal to the referee when the ball or a player carrying it has gone into touch-in-goal.
+(5) The touch judge shall lower his flag when the ball has been thrown in except on the following occasions when he must keep it raised:
+(a) when the player throwing in the ball puts any part of either foot in the field-of-play,
+(b) when the ball has not been thrown in by the team entitled to do so,
+(c) when, at a quick throw-in, the ball that went into touch is replaced by another or is handled by anyone other than the players. It is for the referee to decide whether or not the ball has been thrown in from the correct place.
+(6) In matches in which a national representative team is playing and in such domestic matches for which a union gives express permission, and where referees recognised by the Union are appointed as touch judges, the touch judges may report incidents of foul play and misconduct under Law 26(3) to the referee for the match. A touch judge may signal such an incident to the referee by raising his flag to a horizontal position pointing in the direction of the goal-line of the offending team. The touch judge must remain in touch and continue to carry out his other functions until the next stoppage in play when the referee shall consult him regarding the incident. The referee may then take whatever action he deems appropriate and any consequent penalties shall be in accordance with Law 26(3).
+(7) When a kick at goal from a try, or penalty kick is being taken both touch judges must assist the referee by signalling the result of the kick. One touch judge shall stand at or behind each of the goal posts and shall raise his flag if the ball goes over the cross bar.
+
+LAW 7. MODE OF PLAY.
+A match is started by a kick-off, after which any player who is on-side may at any time:
+• catch or pick up the ball and run with it,
+• pass, throw or knock the ball to another player,
+• kick or otherwise propel the ball,
+• tackle, push or shoulder an opponent holding the ball,
+• fall on the ball,
+• take part in scrummage, ruck, maul or line-out,
+provided he does so in accordance with these Laws.
+NOTE: (i) If a player hands the ball to another player of his team without any propulsion or throwing of the ball, this does constitute a pass.
+
+LAW 8. ADVANTAGE.
+The referee shall not whistle for an infringement during play which is followed by an advantage gained by the non-offending team. An advantage must be either territorial or such possession of the ball as constitutes an obvious tactical advantage. A mere opportunity to gain advantage is not sufficient.
+NOTES: (i) The referee is given a wide discretion as to what constitutes an advantage and is not limited to a territorial advantage. The referee is the sole judge of whether an advantage has been gained. (ii) The only occasions when advantage does not apply are: (a) when the ball or a player carrying it touches the referee (Law 9 (1)); (b) when the ball emerges from either end of the tunnel at a scrummage not having been played (Law 20, note (xii)); (c) when a player is “accidentally” off-side (Exception (i) Law 24 (A) (2) (b)). (iii) When any irregularity of play not provided for in the Laws occurs, a scrummage shall be formed where the irregularity occurred. In deciding which team should put in the ball, the referee should apply Law 20 (7).
+
+LAW 9. BALL OR PLAYER TOUCHING REFEREE.
+(1) If the ball or a player carrying it touches the referee in the field-of-play, play shall continue unless the referee considers either team has gained an advantage in which case he shall order a scrummage. The team which last played the ball shall put it in.
+(2) (a) If the ball in a player’s possession or a player carrying it touches the referee in that player’s In-goal, a touch-down shall be awarded.
+(b) If a player carrying the ball in his opponents’ In-goal touches the referee before grounding the ball, a try shall be awarded at that place.
+NOTES: (i) If the ball, while in play in In-goal at either end but not held by a player, touches the referee, a touch judge, or a spectator, a touch-down shall be awarded provided that a touch-down would otherwise have been obtained or the ball would have gone into touch-in-goal or on or over the dead-ball line. (ii) If the ball while in play in In-goal at either end, but not held by a player, touches the referee, a touch judge, or a spectator, a try shall be awarded at that place provide an attacking player would otherwise have scored it. (iii) When the ball touches a spectator in either of the above cases, if the referee is in doubt, the award shall be made to the visiting team if that team is the defending team under (i) or the attacking team under (ii).
+
+LAW 10. KICK-OFF.
+Kick-off is (a) a place kick taken from the centre of the half-way line by the team which has the right to start the match or by the opposing team on the resumption of play after the half-time interval or by the defending team after a goal has been scored, or (b) a drop kick taken at or from behind the centre of the half-way line by the defending team after an unconverted try.
+(1) The ball must be kicked from the correct place and by the correct form of kick; otherwise it shall be kicked off again.
+(2) The ball must reach the opponents’ ten metres line, unless first played by an opponent; otherwise it shall be kicked off again, or a scrummage formed at the centre, at the opponents’ option. If it reaches the ten metres line and is then blown back, play shall continue.
+(3) If the ball pitches directly into touch, touch-in-goal or over or on the dead-ball line, the opposing team may accept the kick, have the ball kicked off again, or have a scrummage formed at the centre.
+(4) The kicker’s team must be behind the ball when kicked; otherwise a scrummage shall be formed at the centre.
+(5) The opposing team must stand on or behind the ten metres line. If they are in front of that line or if they charge before the ball has been kicked, it shall be kicked off again.
+
+LAW 11. METHOD OF SCORING.
+Try. A try is scored by first grounding the ball in the opponents’ In-goal.
+A try shall be awarded if one would probably have been scored but for foul play by the opposing team.
+Goal. A goal is scored by kicking the ball over the opponents’ cross-bar and between the goal posts from the field-of-play by any place kick or drop kick, except a kick-off, drop-out or free-kick, without touching the ground or any player of the kicker’s team.
+A goal is scored if the ball has crossed the bar, even though it may have been blown backwards afterwards and whether it has touched the cross-bar or either goal post or not.
+A goal is scored if the ball has crossed the bar notwithstanding a prior offence of the opposing team.
+A goal may be awarded if the ball is illegally touched by any player of the opposing team and if the referee considers that a goal would otherwise probably have been scored.
+The scoring values are as follows:
+A try: 4 points
+A goal scored after a try: 2 points
+A goal from a penalty kick: 3 points
+Dropped goal otherwise obtained: 3 points
+
+LAW 12. TRY AND TOUCH-DOWN.
+Grounding the ball is the act of a player who:
+(a) while holding the ball in his hand (or hands) or arm (or arms) brings the ball in contact with the ground, or
+(b) while the ball is on the ground either:
+• places his hand (or hands) or arm (or arms) on it with downward pressure, or
+• falls upon it and the ball is anywhere under the front of his body from waist to neck inclusive.
+Picking up the ball from the ground is not grounding it.
+
+A. Try.
+(1) A player who is on-side scores a try when:
+• he carries the ball into his opponents’ In-goal, or
+• the ball is in his opponents’ In-goal, and he first grounds it there.
+(2) The scoring of a try includes the following cases:
+(a) if a player carries, passes, knocks or kicks the ball into his In-goal and an opponent first grounds it,
+(b) if, at a scrummage or ruck, a team is pushed over its goal line and before the ball has emerged it is first grounded in In-goal by an attacking player,
+(c) if the momentum of a player, when tackled, carries him into his opponents’ In-goal and he first there grounds the ball,
+(d) if a player first grounds the ball on his opponents’ goal line or if the ball is in contact with the ground and a goal post.
+(3) If a player grounds the ball in his opponents’ In-goal and picks it up again, a try is scored where it was first grounded.
+(4) A try may be scored by a player who is in touch or in touch-in-goal provided he is not carrying the ball.
+
+B. Penalty Try.
+A penalty try shall be awarded between the posts if but for foul play by the defending team:
+• a try would probably have been scored, or
+• it would probably have been scored in a more favourable position than that where the ball was grounded.
+
+C. Touch-Down.
+(1) A touch-down occurs when a player first grounds the ball in his In-goal.
+(2) After a touch-down play shall be restarted either by a drop-out or a scrummage, as provided in Law 14.
+
+D. Scrummage after Grounding in Case of Doubt.
+Where there is doubt as to which team first grounded the ball in In-goal, a scrummage shall be formed five metres from the goal line opposite the place where the ball was grounded. The attacking team shall put in the ball.
+
+LAW 13. KICK AT GOAL AFTER A TRY.
+(1) After a try has been scored, the scoring team has the right to take a place kick or drop kick at goal, on a line through the place where the try was scored.
+If the scoring team does not take the kick, play shall be restarted by a drop kick from the centre, unless time has expired.
+(2) If a kick is taken:
+(a) it must be taken without undue delay;
+(b) any player including the kicker may place the ball;
+(c) the kicker’s team, except the placer, must be behind the ball when kicked;
+(d) if the kicker kicks the ball from a placer’s hands without the ball being on the ground, the kick is void;
+(e) the opposing team must be behind the goal line until the kicker begins his run or offers to kick when they may charge or jump with a view to preventing a goal.
+(3) Neither the kicker nor a placer shall wilfully do anything which may lead the opposing team to charge prematurely. If either does so, the charge shall not be disallowed.
+Penalty:
+• For an infringement by the kicker’s team: the kick shall be disallowed.
+• For an infringement by the opposing team: the charge shall be disallowed. If, however, the kick has been taken successfully, the goal shall stand. If it was unsuccessful, the kicker may take another kick under the original conditions without the charge and may change the type of kick.
+NOTES: (i) In addition to the general provision regarding waste of time, the kicker is bound to kick without delay, under penalty. A player should not be permitted to be unreasonably slow in taking any kick at goal. A period of one minute between the indication of intention to kick at goal and the actual kick is well inside the zone of “undue delay”. A player who is unreasonably slow, should be warned that if he persists in delay, penalties will be applied. Even without a caution, if the delay is clearly a breach of law, the kick should be disallowed and a kick-off ordered. (ii) The referee must always make up time lost by any delay in taking the kick, as is provided for in note (ii) under Law 5. (iii) The referee should see that the opposing players do not gradually creep up and that they have both feet behind the goal line, otherwise he should disallow the charge. (iv) Shouting by the defending team during a kick at goal should be treated as misconduct and, if no goal is scored, another kick should be allowed without the charge. (v) When another kick is allowed for any reason, all the original preliminaries may be retaken. (vi) If the ball rolls over and away from the line through the place where the try was scored and the ball is kicked over the crossbar, a goal should be awarded. (vii) If, after the kicker has commenced his run, the ball rolls over into touch, another kick under the original conditions should not be allowed. (viii) The kick must be taken with the ball which was in play unless the referee decides that the ball is defective. (ix) The law does not allow the use of sand or sawdust for placing the ball on hard playing fields when taking a place kick at goal, but in exceptional local conditions, such a variation from normal practice might be permitted.
+
+LAW 14. IN-GOAL.
+In-goal is the area bounded by a goal-line, touch-in-goal lines and dead-ball line. It includes the goal lines and goal posts but excludes touch-in-goal lines and dead-ball line.
+Touch-in-goal occurs when the ball or player carrying it touches a corner post or a touch-in-goal line or the ground or a person or object on or beyond it. The flag is not part of the corner post.
+
+(1) Five Metres Scrummage
+If a player carrying the ball in In-goal is so held that he cannot ground the ball, a scrummage shall be formed five metres from the goal line opposite the place where he was held.
+The attacking team shall put in the ball.
+(2) (a) If a defending player heels, kicks, carries, passes or knocks the ball over his goal line and it there becomes dead except where:
+• a try is scored, or
+• he wilfully knocks or throws the ball from the field-of-play into touch-in-goal or over his dead-ball line, or
+(b) if a defending player in In-goal has his kick charged down by an attacking player after:
+• he carried the ball back from the field-of-play, or
+• a defending player put it into In-goal and the ball is then touched down or goes into touch-in-goal or over the dead-ball line, or
+(c) if a defending player carrying the ball in the field-of-play is forced into his In-goal and he then touches down, or
+(d) if, at a scrummage or ruck, a defending team with the ball in its possession is pushed over its goal line and before the ball has emerged first grounds it in In-goal,
+a scrummage shall be formed five metres from the goal line opposite the place where the ball or a player carrying it crossed the goal line.
+The attacking team shall put in the ball.
+NOTES: (i) If a defending player wilfully puts the ball back into his own In-goal, he accepts all the consequences of taking that action. Many things may happen in In-goal after the ball has been carried, passed, knocked, heeled or kicked back by a defending player and it may be quite an appreciable time before the ball becomes dead and Law 14 applies. (ii) Paragraph 2 (b) of Law 14 applies whether the attacking player charges down the kick in the field-of-play or in In-goal. (iii) If play similar to a maul takes place in In-goal, Law 14 (I) applies.
+
+(3) Drop-Out.
+Except where the ball is knocked on or thrown forward or a try or goal is scored, if an attacking player kicks, carries or passes the ball and it travels into his opponents’ In-goal either directly or after having touched a defender who does not wilfully attempt to stop, catch or kick it, and it is there:
+• grounded by a player of either team, or
+• goes into touch-in-goal or over the dead-ball-line
+a drop-out shall be awarded.
+
+(4) Penalties
+(a) A penalty try shall be awarded when by foul play in In-goal the defending team has prevented a try which otherwise would probably have been scored.
+(b) A try shall be disallowed and a drop-out awarded, if a try would probably not have been gained but for foul play by the attacking team.
+(c) For foul play in In-goal while the ball is out of play the penalty kick shall be awarded at the place where play would otherwise have restarted and, in addition, the player shall either be ordered off or cautioned that he will be sent off if he repeats the offence.
+(d) For wilfully charging or obstructing in In-goal a player who has just kicked the ball the penalty shall be:
+• a drop-out, or, at the option of the non-offending team,
+• a penalty kick where the ball alights as provided for an infringement of Law 26 (3) (d).
+(e) for other infringements in In-goal, the penalty shall be:
+• for an offence by the attacking team: a drop-out.
+• for an offence by the defending team: scrummage five metres from the goal line opposite the place of infringement.
+NOTES: (iv) The decisions open to the referee for infringements in In-goal are: (a) For an offence by the attacking team: (i) a drop-out, or (ii) warning and/or sending off the player for foul play, or (iii) a penalty kick for foul play in In-goal while the ball is out of play. (b) For an offence by the defending team: (i) a five metres scrummage, or (ii) a penalty try, or (iii) warning and/or sending off the player for foul play, or (iv) a penalty kick for foul play in In-goal while the ball is out of play. (v) A penalty kick must not be awarded for an offence in In-goal except only when either Law 14 Penalty (d) or Law 26 (3) (h) applies. In the latter case the penalty kick is to be taken either at the twenty-two metres line (at any point the non-offending team may select) or at the centre of the half-way line, whichever is the place where play would restart. (vi) If from a free kick or penalty kick taken in In-goal the ball is made dead by the defending team before it has crossed the goal-line, a scrummage shall be awarded to the attacking team.team five metres from the goal-line opposite to where it was made dead.
+
+LAW 15. DROP-OUT.
+A drop-out is a drop kick awarded to the defending team.
+(1) The drop kick must be taken from anywhere on or behind the twenty-two metres line; otherwise the ball shall be dropped out again.
+(2) The ball must reach the twenty-two metres line, otherwise the opposing team may have it dropped out again, or have a scrummage formed at the centre of the twenty-two metres line. If it reaches the twenty-two metres line and is then blown back, play shall continue.
+(i) If the ball does not reach the twenty-two metres line and an opponent picks up the ball and grounds it over the kicker's goal line, a try should be awarded.
+(3) If the ball pitches directly into touch, the opposing team may accept the kick, have the ball dropped out again, or have a scrummage formed at the centre of the twenty-two metres line.
+(4) The kicker’s team must be behind the ball when kicked; otherwise a scrummage shall be formed at the centre of the twenty-two metres line.
+(5) The opposing team must not charge over the twenty-two metres line; otherwise the ball shall be dropped out again.
+(ii) If a player of the opposing team remains beyond or crosses the twenty-two metres line for the purpose of delaying or interfering with the player who is about to drop-out, a penalty under Law 26 (3) (h) should be awarded.
+(iii) The advantage law applies where the drop-kick does not reach the twenty-two metres line and goes into touch.
+
+LAW 16. FAIR-CATCH (MARK).
+(a) A player makes a fair-catch when being stationary with both feet on the ground on his side of his twenty-two metres line he cleanly catches the ball direct from a kick, knock-on or throw-forward by one of his opponents and, at the same time, he exclaims “Mark!”
+A fair-catch may be obtained even though the ball on its way touches a goal post or crossbar and can be made in In-goal.
+(b) A free kick is awarded for a fair-catch.
+(1) The kick must be taken by the player making the fair-catch, unless he is injured in so doing. If he is unable to take the kick within one minute a scrummage shall be formed at the mark. His team shall put in the ball.
+(2) If the mark is in In-goal any resultant scrummage shall be five metres from the goal line on a line through the mark.
+(i) “His side of his twenty-two metres line" means that no part of either foot is on or beyond his twenty-two metres line.
+(ii) If an opponent unfairly charges the catcher in the field-of-play after the referee has blown his whistle for a fair catch, a penalty kick shall be awarded. If the charge occurs in In-goal, a drop-out shall be awarded.
+
+LAW 17. KNOCK-ON OR THROW-FORWARD.
+A knock-on occurs when the ball travels forward after—
+• a player loses possession of it, or
+• a player propels or strikes it with his hand or arm, or
+• it strikes a player’s hand or arm
+A throw-forward occurs when a player carrying the ball throws or passes it in the direction of his opponent’s dead-ball line. A throw-in from touch is not a throw-forward. If the ball is not thrown or passed forward but bounces forward after hitting a player or the ground, it is not a throw-forward.
+(i) A pass, throw or knock-on should not be adjudged an infringement unless it is clearly so under Law. If there is any doubt, play should be allowed to proceed.
+(ii) A fair-catch can be made from a knock-on.
+(1) The knock-on or throw forward must not be intentional.
+Penalty: Penalty kick at the place of infringement.
+(2) If the knock-on or throw-forward is unintentional, a scrummage shall be formed either at the place of infringement or, if it occurs at a line-out, fifteen metres from the touch line along the line-of-touch, unless:
+• a fair catch has been allowed, or
+• the ball is knocked on by a player who is in the act of charging down the kick of an opponent but is not attempting to catch the ball, or
+• the ball is knocked on one or more times by a player who is in the act of catching or picking it up or losing possession of it and is recovered by that player before it has touched the ground or another player.
+(iii) If an attacking player knocks-on or throws forward in the field-of-play and the ball travels into In-goal either directly or after having touched a defender who does not wilfully attempt to stop, catch or kick it, and it is there
+(a) grounded by a player of either team, or
+(b) goes into touch-in-goal or over the dead-ball line,
+a scrummage should be awarded at the place of the knock-on or throw-forward.
+
+LAW 18. TACKLE.
+A tackle occurs when a player carrying the ball in the field-of-play is held by one or more opponents so that while he is so held he is brought to the ground or the ball comes into contact with the ground. If the ball carrier is on one knee or both knees or sitting on the ground, or is on top of another player who is on the ground, the ball carrier is deemed to have been brought to the ground.
+(1) A tackled player must play the ball immediately or if unable to play it, must release it immediately and get up or move away from it. He must not play the ball again or interfere with it in any way until he is on his feet.
+Any other player must:—
+• be on his feet before he can play the ball,
+• not fall on or over a player lying on the ground with the ball in his possession,
+• not fall on or over players lying on the ground with the ball between them or in close proximity.
+(i) The requirement to play or release the ball immediately allows a player to put the ball on the ground in any direction or to his side, provided he does so as soon as the tackle occurs. A tackled player is permitted to pass or throw the ball or push it along the ground provided he does so immediately and it is not in a forward direction.
+(ii) It is not a tackle if the ball carrier is lifted by an opponent so that both his feet are off the ground.
+(iii) If the tackled player does not play or release the ball immediately and the referee is in doubt as to responsibility for failure to play or release it, he should at once order a scrummage.
+(2) It is illegal for any player:—
+• to prevent a tackled player from playing or releasing the ball, or getting up after he has played or released it, or
+• to pull the ball from a tackled player’s possession or attempt to pick up the ball before the tackled player has released it, or
+• while lying on the ground after a tackle to play or interfere with the ball in any way or to tackle or attempt to tackle an opponent carrying the ball.
+Penalty:— Penalty kick at the place of infringement.
+(3) If a player carrying the ball is thrown or knocked over but not tackled, he may pass the ball or get up and continue his run even though the ball has touched the ground.
+(4) A try may be scored if the momentum of a player carries him into his opponents’ In-goal even though he is tackled.
+(iv) A ruck has been formed if players of both teams are in physical contact in close proximity around the ball on the ground after a tackle. If the ball is played with the hands or picked up before it emerges from the ruck, a penalty kick should be awarded.
+(v) Danger may arise if a tackled player fails to play or release or roll away from the ball at once or is prevented from doing so. In such cases the referee should not delay in awarding a penalty kick.
+(vi) A player on one knee or both knees or sitting on the ground is deemed to be lying on the ground.
+
+LAW 19. LYING WITH, ON OR NEAR THE BALL.
+(1) A player who has not been tackled but who is lying on the ground and holding the ball must immediately pass or release the ball or roll away from it or get up on his feet.
+(2) A player or players lying on the ground in close proximity to the ball must not prevent an opponent gaining possession of it.
+(3) A player or players from either team must not wilfully fall on or over a player who is lying on the ground with the ball in his possession or in close proximity, or on players lying on the ground with the ball between them.
+(4) A player must not fall on or over the ball emerging from a scrummage or ruck.
+Penalty: Penalty kick at the place of infringement.
+(i) A player on one knee or both knees or sitting on the ground is deemed to be lying on the ground.
+(ii) Advantage shall be played only if it occurs immediately.
+
+LAW 20. SCRUMMAGE.
+A scrummage, which can take place only in the field-of-play, is formed by players from each team closing up in readiness to allow the ball to be put on the ground between them but is not formed within five metres of the touchline. The middle player in each front row is the hooker, and the players on either side of him are the props.
+The middle line means an imaginary line on the ground directly beneath the line formed by the junction of the shoulders of the two front rows.
+If the ball in a scrummage is on or over the goal line the scrummage is ended.
+Forming a Scrummage
+(1) A team must not wilfully delay the forming of a scrummage.
+(2) Every scrummage shall be formed at the place of infringement or as near thereto as is practicable within the field-of-play. It must be stationary with the middle line parallel to the goal lines until the ball has been put in.
+Before commencing engagement each front row must be in a crouched position with their heads and shoulders no lower than their hips and so that they are no more than one arm’s length from their opponents’ shoulders.
+(i) To the extent that is necessary the scrummage is to be moved from the place of infringement so that when it is near a goal line, the line of the front row of the defending team is in the field-of-play before the ball is put in. The scrummage is ended if the ball in the scrummage touches or crosses a goal line.
+(3) It is dangerous play for a front row to form down some distance from its opponents and rush against them.
+(4) A minimum of five players from each team shall be required to form a scrummage. Each front row shall have three players in it at all times. The head of a player in the front row shall not be next to the head of a player of the same team.
+(5) When a scrummage is forming and is taking place, the shoulders of each player in the front row must be no lower than his hips. All players in each front row must adopt a normal stance. Both feet must be on the ground and, until the ball has been correctly put in, must not be crossed. A hooker’s foot must not be in front of the forward feet of his props.
+(ii) When the place of "infringement” is within five metres of a touch line the scrummage is to be formed five metres from that touch line.
+(iii) The referee should not permit the front rows to close up until the ball is in the hands of the player and is available to be put in immediately.
+(iv) A crouched position is the extension of the normal stance by bending the knees sufficiently to step into the engagement without a charge.
+(v) The restriction on the crossing of the feet of the players in the front rows refers only to the feet of individual players: but the feet of all players in the front rows "must be in the position for an effective forward shove”.
+(vi) A flank forward in the second or third row of a scrummage may pack at an angle provided he is properly bound. If the ball is emerging from the back of scrummage and he moves outwards, thereby preventing an opponent from advancing around the scrummage, a penalty kick should be awarded.
+(vii) In the event of a scrummage collapsing the referee should whistle immediately so that players do not continue to push.
+Binding of Players
+(a) The players of each front row shall bind firmly and continuously while the scrummage is forming, while the ball is being put in and while it is in the scrummage.
+(b) The hooker may bind either over or under the arms of his props but, in either case, he must bind firmly around their bodies at or below the level of the armpits. The props must bind the hooker similarly. The hooker must not be supported so that he is not carrying any weight on either foot.
+(c) The outside (loose head) prop must either (i) bind his opposing (tight head) prop with his left arm inside the right arm of his opponent, or (ii) place his left hand or forearm on his left thigh.
+(d) The tight-head prop must bind with his right arm outside the left upper arm of his opposing loose-head prop. He may grip the jersey of his opposing loose-head prop with his right hand but only to keep himself and the scrummage steady and he must not exert a downward pull.
+(e) All players in a scrummage, other than those in a front row, must bind with at least one arm and hand around the body of another player of the same team.
+(f) No outside player other than a prop may hold an opponent with his outer arm.
+Putting the Ball into the Scrummage
+(7) The team not responsible for the stoppage of play shall put in the ball. In the event of doubt as to responsibility the ball shall be put in by the team which was moving forward prior to the stoppage or, if neither team was moving forward, by the attacking team.
+(viii) It is permissible for the outside (loose-head) prop to alter his binding with his left arm, within the provisions of Law 20 (6) (c), at any time during a scrummage.
+(ix) A stoppage may be caused without any infringement by either team. The words “responsible for the stoppage of play” include legitimate actions by a team, such as falling on the ball, tackling, etc., which prevent the opposing team from continuing play.
+(8) The ball shall be put in without delay as soon as the two front rows have closed together. A team must put in the ball when ordered to do so and on the side first chosen.
+(x) In the interests of safety, the referee has authority to permit delay in putting in the ball if a player in the front row has not succeeded in getting his head down in the scrummage.
+(xi) A penalty kick should be awarded if the referee is satisfied that the delay by the team in putting the ball in is deliberate and prejudices the other team.
+(9) The player putting in the ball shall
+(a) stand one metre from the scrummage and midway between the two front rows;
+(b) hold the ball with both hands midway between the two front rows at a level midway between his knee and ankle;
+(c) from that position put in the ball
+• without any delay or without feint or backward movement, i.e. with a single forward movement, and
+• at a quick speed straight along the middle line so that it first touches the ground immediately beyond the width of the nearer prop’s shoulders.
+(10) Play in the scrummage begins when the ball leaves the hands of the player putting it in.
+(11) If the ball is put in and it comes out at either end of the tunnel, it shall be put in again, unless a free kick or penalty kick has been awarded.
+If the ball comes out otherwise than at either end of the tunnel and if a penalty kick has not been awarded play shall proceed.
+(xii) Advantage applies as soon as the ball has been put into the scrummage and played.
+Restrictions on Front Row Players
+(12) All front row players must place their feet so as to allow a clear tunnel. A player must not prevent the ball being put into the scrummage, or from touching the ground at the required place.
+(13) No front row player may raise or advance a foot until the ball has touched the ground.
+(xiii) Until any foot is permitted to be raised or advanced, that foot must be kept in the normal position.
+(14) When the ball has touched the ground, any foot of any player in either front row may be used in an attempt to gain possession of the ball subject to the following:—
+players in the front rows must not at any time during the scrummage:—
+(a) raise both feet off the ground at the same time, or
+(b) wilfully adopt any position or wilfully take any action, by twisting or lowering the body or by pulling on an opponent's dress, which is likely to cause the scrummage to collapse, or
+(c) wilfully kick the ball out of the tunnel in the direction from which it is put in.
+(xiv) The prohibition against a player in the front row raising both feet off the ground at the same time or striking at the ball with both feet applies during the whole scrummage and not merely to the period while the ball is being put in.
+(xv) Referees must be strict in applying penalties for wilfully kicking out. Repeated kicking out must be treated as wilful.
+(xvi) When the referee orders the ball to be put in again it must be put in by a player of the same team as was first entitled to do so.
+(xvii) If the ball is about to pass straight through the tunnel and a far prop advances a foot so that the ball passes behind the foot, the ball must be put in again unless it has been lawfully played (i.e. touched) by a player in the front row.
+Restrictions on Players
+(15) Any player who is not in either front row must not play the ball while it is in the tunnel.
+(16) A player must not:—
+(a) return the ball into the scrummage, or
+(b) handle the ball in the scrummage except in the act of obtaining a “push over” try or touch-down, or
+(c) pick up the ball in the scrummage by hand or legs, or
+(d) wilfully collapse the scrummage, or
+(e) wilfully fall or kneel in the scrummage, or
+(f) attempt to gain possession of the ball in the scrummage with any part of the body except the foot or lower leg.
+(xviii) Referees must be strict in penalising for the wilful collapsing of scrummage as stated under Law 20 (16)(d) and Law 26 (3)(g).
+(17) The player putting in the ball and his immediate opponent must not kick the ball while it is in the scrummage.
+(xix) If a player repeatedly infringes, he must be dealt with under Law 26 (2).
+Penalty:
+(a) For an infringement of paragraphs (2), (5), (8), (9), (12), (13) and (15) a free kick at the place of infringement.
+(b) For an infringement of paragraphs (1), (3), (4), (6), (14), (16) and (17) a penalty kick at the place of infringement.
+For Off-side at Scrummage see Law 24B.
+
+LAW 21. RUCK.
+A ruck, which can take place only in the field-of-play, is formed when the ball is on the ground and one or more players from each team are on their feet and in physical contact, closing around the ball between them.
+If the ball in a ruck is on or over the goal line the ruck is ended.
+(1) A player joining a ruck must have his head and shoulders no lower than his hips. He must bind with at least one arm around the body of a player of his team in the ruck.
+(i) The placing of a hand on another player is not binding. Binding involves the whole arm, from hand to shoulder.
+(2) A player must not:—
+(a) return the ball into the ruck, or
+(b) handle the ball in the ruck except in the act of securing a try or touch-down, or
+(c) pick up the ball in the ruck by hand or legs, or
+(d) wilfully collapse the ruck, or
+(e) jump on top of other players in the ruck, or
+(f) wilfully fall or kneel in the ruck, or
+(g) while lying on the ground interfere in any way with the ball in or emerging from the ruck. He must do his best to roll away from it.
+Penalty:— Penalty kick at the place of infringement.
+For Off-side at Ruck see Law 24C.
+
+LAW 22. MAUL.
+A maul, which can take place only in the field-of-play, is formed by one or more players from each team on their feet and in physical contact closing round a player who is carrying the ball.
+A maul ends when the ball is on the ground or the ball or a player carrying it emerges from the maul or when a scrummage is ordered.
+If the ball in a maul is on or over the goal line the maul is ended.
+A player joining a maul must have his head and shoulders no lower than his hips.
+(1) A player is not in physical contact unless he is caught in or bound to the maul and not merely alongside it.
+(2) A player must not:—
+(a) jump on top of players in a maul, or
+(b) wilfully collapse a maul, or
+(c) attempt to drag another player out of the maul.
+Penalty:— Penalty kick at the place of infringement.
+(3) When the ball in a maul becomes unplayable a scrummage shall be ordered and the team which was moving forward immediately prior to the stoppage shall put in the ball, or if neither team was moving forward, the attacking team shall put it in.
+(i) Before whistling for a scrummage, the referee should allow a reasonable time for the ball to emerge from the maul, particularly if either team is moving forward. If in his opinion the ball will probably not emerge from the maul without delay, he should not allow prolonged wrestling for the ball but should order a scrummage.
+(ii) If any player in a maul goes to the ground, including being on one knee or both knees or is sitting on the ground, a scrummage is to be ordered.
+For Off-side at Maul see Law 24C.
+
+LAW 23. TOUCH AND LINE-OUT.
+A Touch.
+(1) The ball is in touch
+• when it is not being carried by a player and it touches a touch line or the ground or a person or object on or beyond it, or
+• when it is carried by a player and it or the player carrying it touches a touch line or the ground beyond it.
+(2) If the ball is not in touch a player who is in touch may kick the ball or propel it with his hand but not hold it.
+(i) (a) If the ball pitches directly into touch from a kick-off and the opposing team elects to accept the kick, the line-out shall be formed
+(i) at the half-way line, or
+(ii) where the ball went into touch if that place be nearer to the kicker's goal-line.
+(b) If the ball pitches directly into touch from a drop-out and the opposing team elects to accept the kick, the line-out shall be formed where the ball went into touch.
+(c) “pitching directly into touch" means that the ball, having been kicked, first touches the touch line or the ground or a person or object on or beyond it and has not touched or been touched in flight by an opponent or the referee.
+(ii) On or beyond the touch line or touch-in-goal line refers to all areas except the playing area.
+(iii) It is not touch or touch-in-goal when a player with both feet in the playing area catches the ball, even though the ball before being caught has crossed the touch line or touch-in-goal line. Such a player may deflect or tap the ball into the playing area provided it is not propelled forward. If a player jumps and catches the ball his feet must land in the playing area.
+B. Line-Out.
+The line-of-touch is an imaginary line in the field-of-play at right angles to the touch line through the place where the ball is to be thrown in.
+Formation of Line-Out.
+(1) A line-out is formed by at least two players from each team lining up in single lines parallel to the line-of-touch in readiness for the ball to be thrown in between them. The team throwing in the ball shall determine the maximum number of players from either team who so line up. Such players are those “in the line-out”, unless excluded below.
+(iv) Prior to the beginning of the line-out, any offence, including wilfully failing to form a line-out, or to line up at least two players, should be dealt with as misconduct under Law 26 (3) (h).
+(2) Until the ball is thrown in each player in the line-out must stand at least one metre from the next player of his team in the line-out and avoid physical contact with any other player.
+(v) The distance of “at least one metre” means between players who are deemed to be facing the touch line and standing upright with their feet together. Players may adopt any stance and face in any direction.
+(3) The line-out stretches from five metres from the touch line from which the ball is being thrown into a position fifteen metres from that touch line.
+(4) Any player of either team who is further than fifteen metres from the touch line when the line-out begins is not in the line-out.
+(5) A clear space of 500 millimetres must be left between the two lines of players.
+(vi) The distance of 500 millimetres for the clear space is between the shoulders of the player when standing upright.
+(vii) If, at a formed line-out, the team throwing in the ball line up less than the normal number their opponents must be given a reasonable opportunity to conform. Opposing players who are retiring for that purpose must do so directly and without delay to a line ten metres behind the line-of-touch. Loiterers must be penalised. Subject to this, when the line-out is ended players so retiring may rejoin play, even if they have not reached the ten metres line.
+Throwing in the Ball
+(6) When the ball is in touch the place at which it must be thrown in is as follows:—
+• when the ball goes into touch from a penalty kick, free kick, or from a kick within twenty-two metres of the kickers goal line, at the place where it touched or crossed the touch line.
+• when the ball pitches directly into touch after having been kicked otherwise than as stated above, opposite the place from which the ball was kicked or at the place where it touched or crossed the touch line if that place be nearer to the kicker’s goal line, or
+• on all other occasions when the ball is in touch, at the place where it touched or crossed the touch line.
+In each instance the place is where the ball last crossed the touch line before being in touch.
+(7) The ball must be thrown in at the line-out by an opponent of the player whom it last touched, or by whom it was carried, before being in touch. In the event of doubt as to which team should throw in the ball, the attacking team shall do so.
+(8) The ball must be thrown in without delay and without feint.
+(9) A quick throw in from touch without waiting for the players to form a line-out is permissible provided the ball that went into touch is used, it has been handled only by the players and it is thrown in correctly.
+(10) The ball may be brought into play by a quick throw-in or at a formed line-out. In either events a player must throw in the ball
+• at the place indicated, and
+• so that it first touches the ground or touches or is touched by a player at least five metres from the touch line along the line-of-touch, and
+• while throwing in the ball, he must not put any part of either foot in the field-of-play.
+If any of the foregoing is infringed, the opposing team shall have the right, at its option, to throw in the ball or to take a scrummage.
+If on the second occasion the ball is not thrown in correctly a scrummage shall be formed and the ball shall be put in by the team which threw it in on the first occasion.
+(viii) If a player wilfully prevents the ball from being thrown in five metres, a penalty kick should be awarded.
+(ix) If a player, wilfully throws the ball in not straight a penalty kick should be awarded.
+(x) For a quick throw-in the “position of fifteen metres from touch” requirement does not apply.
+Beginning and End of Line-out
+(11) The line-out begins when the ball leaves the hands of the player throwing it in.
+(12) The line-out ends when
+• a ruck or maul is taking place and all feet of players in the ruck or maul have moved beyond the line-of-touch, or
+• a player carrying the ball leaves the line-out, or
+• the ball has been passed, knocked back or kicked from the line-out, or
+• the ball is thrown beyond a position fifteen metres from the touch line, or
+• the ball becomes unplayable.
+(xi) Any movement of a player beyond a position fifteen metres from the touch line must be solely for the purpose of catching or jumping to catch the ball. The player may move in-field in an attempt to catch the ball only after it leaves the hand of the player throwing it in.
+(xii) A player acting as scrum-half may not stand or move beyond a position fifteen metres from the touch line before the ball has passed that position unless he moves to anticipate a long throw-in but he may so move only in accordance with the conditions in the preceding Note (xi).
+(xiii) If a player participating in a line-out hands the ball to another player who is peeling-off from the line-out, the line-out ends when the second player takes the ball.
+(xiv) When the ball has been passed or knocked back from a line-out, the line-out is ended. Players in front of a player of their own team who receives the ball from the line-out may be off-side but they should only be penalised under Law 24A if they play the ball or obstruct an opponent in any way.
+(xv) A ruck or maul has not moved from the line-of-touch unless all the feet of the players in the ruck or maul have moved beyond that line.
+Peeling Off
+“Peeling off” occurs when a player (or players) moves from his position in the line-out for the purpose of catching the ball when it has been passed or knocked back by another of his team in the line-out.
+(13) When the ball is in touch players who approach the line-of-touch must always be presumed to do so for the purpose of forming a line-out. Except in a peeling off movement, such players must not leave the line-of-touch, or the line-out when formed, until the line-out has ended. A player must not begin to peel off until the ball has left the hands of the player throwing it in.
+Exception:—At a quick throw-in, when a player may come to the line-of-touch and retire from that position without penalty.
+(14) In a peeling off movement a player must move parallel and close to the line-out. He must keep moving until a ruck or maul is formed and he joins it or the line-out ends.
+Restrictions on Players in Line-out
+(15) Before the ball has been thrown in and has touched the ground or has touched or been touched by a player, any player in the line-out must not
+(a) be off-side, or
+(b) push, charge, shoulder or bind with or in any way hold another player of either team, or
+(c) use any other player as a support to enable him to jump for the ball, or
+(d) stand within five metres of the touch line or prevent the ball from being thrown five metres.
+(16) After the ball has touched the ground or touched or been touched by a player, any player in the line-out must not
+(a) be off-side, or
+(b) hold, push, shoulder or obstruct an opponent not holding the ball, or
+(c) charge an opponent except in an attempt to tackle him or to play the ball.
+(17) Except when jumping for the ball or peeling off, each player in the line-out must remain at least one metre from the next player of his team until the ball has touched or has been touched by a player or has touched the ground.
+(18) Except when jumping for the ball or peeling off, a clear space of 500 millimetres must be left between the two lines of players until the ball has touched or has been touched by a player or has touched the ground.
+(xvi) The act of jumping for the ball can include a step if it is a simple movement in endeavouring to catch the ball.
+(19) A player in the line-out may move into the space between the touch line and the five metres mark only when the ball has been thrown beyond him and, if he does so, he must not move towards his goal line before the line-out ends, except in a peeling off movement.
+(20) Until the line-out ends, no player may move beyond a position fifteen metres from the touch line except as allowed when the ball is thrown beyond that position in accordance with the Exception following Law 24D(l)(d).
+(xvii) If the ball in a line-out becomes unplayable, otherwise than as a result of an infringement for which a penalty is prescribed, a scrummage should be ordered.
+Restrictions on Players not in Line-out
+(21) Players of either team who are not in the line-out may not advance from behind the line-out and take the ball from the throw-in except only
+• a player at a quick throw-in, or
+• a player advancing at a long throw-in, or
+• a player “participating in the line-out” (as defined in Section D of Law 24) who may run into a gap in the line-out and take the ball provided he does not charge or obstruct any player in the line-out.
+Penalty:—
+(a) For an infringement of paragraphs (1), (2), (3), (4), (5), (8), (13), (17), (18) or (19), a free kick fifteen metres from the touch line along the line-of-touch.
+(b) For an infringement of paragraphs (14), (15), (16) or (20), a penalty kick fifteen metres from the touch line along the line-of-touch.
+(c) For an infringement of paragraph (21) a penalty kick on the offending team's off-side line (as defined in Law 24D) opposite the place of infringement, but not less than fifteen metres from the touch line.
+Place of scrummage: — Any scrummage taken or ordered under this Law or as the result of any infringement in a line-out shall be formed fifteen metres from the touch line along the line-of-touch. For off-side at Line-out see Law 24D.
+(xviii) If a player repeatedly infringes, he must be dealt with under Law 26 (2).
+
+LAW 24. OFF-SIDE.
+Off-side means that a player is in a position in which he is out of the game and is liable to penalty.
+In general play the player is in an off-side position because he is in front of the ball when it has been last played by another player of his team.
+At a scrummage, ruck, maul or line-out the player becomes off-side if he remains or advances in front of the off-side line or otherwise infringes therein as defined in the sections of this Law.
+
+A. Off-side in General Play.
+(1) A player is in an off-side position if the ball has been
+• kicked, or
+• touched, or
+• is being carried
+by one of his team behind him.
+(2) There is no penalty for being in an off-side position unless:—
+(a) the player plays the ball or obstructs an opponent, or
+(b) he approaches or remains within ten metres of an opponent waiting to play the ball or the place where the ball pitches.
+Where no opponent is waiting to play the ball but one arrives as the ball pitches, a player in an off-side position must not obstruct or interfere with him.
+Exceptions:—
+(i) When an off-side player cannot avoid being touched by the ball or by a player carrying it, he is “accidently off-side”. Play should be allowed to continue unless the infringing team obtains an advantage, in which case a scrummage should be formed at that place.
+(ii) A player who receives an unintentional throw-forward is not off-side.
+(iii) If because of the speed of the game, an off-side player finds himself unavoidably within ten metres of an opponent waiting to play the ball or the place where the ball pitches, he shall not be penalised provided he retires without delay and without interfering with the opponent.
+Penalty:— Penalty kick at the place of infringement, or, at the option of the non-offending team, a scrummage at the place where the ball was last played by the offending team. If the latter place is In-goal, the scrummage shall be formed five metres from the goal line on a line through the place.
+(i) A penalty for off-side should not be given at once if the non-offending team gains an advantage or if it appears likely to gain an advantage; but if the expected advantage is not gained, the penalty should in all cases be awarded even if it is necessary to bring play back for that purpose to the place of infringement.
+(ii) When a player knocks on and an off-side player of the same team next plays the ball, a penalty or off-side should not be awarded unless the off-side deprives the non-offending team of an advantage.
+(iii) A player can be off-side in his In-goal.
+(iv) If a player hands the ball to another player of his team in front of him, the second player is off-side. A scrummage for “accidental off-side” should be awarded unless it is considered the player was wilfully off-side in which case a penalty kick should be awarded.
+(v) The referee should whistle at once if an off-side player who cannot be placed on-side charges within ten metres of an opponent waiting to receive the ball. Delay may prove dangerous to the latter player. Where there is no opponent waiting to play the ball but one arrives as the ball pitches, an off-side player who is near such opponent must not obstruct or interfere with him in any way whatsoever before he is put on-side.
+(vi) If an attacking player kicks the ball which is misfielded by an opponent and the ball is then played by another attacking player in an off-side position within ten metres of the opponent, a penalty kick should be awarded.
+(vii) If an attacking player kicks the ball which is charged down by an opponent and another attacking player within ten metres of the opponent then plays the ball, play should be allowed to continue. The opponent was not "waiting to play the ball" and the second attacking player is therefore on-side under Law 25(2).
+(viii) Law 24A (2) (b) also applies where the ball has struck a goal-post or cross-bar. Off-side players must not approach or remain within ten metres of an opponent waiting to play the ball or the place where the ball pitches.
+
+B. Off-side at Scrummage.
+The term “off-side line" means a line parallel to the goal lines through the hindmost foot of the player's team in the scrummage.
+While a scrummage is forming or is taking place:—
+(1) A player is off-side if
+(a) he joins it from his opponents’ side, or
+(b) he not being in the scrummage nor the player of either team who puts the ball in the scrummage
+• fails to retire behind the off-side line or his goal line whichever is the nearer, or
+• places either foot in front of the off-side line while the ball is in the scrummage.
+A player behind the ball may leave a scrummage provided he retires immediately behind the off-side line.
+If he wishes to rejoin the scrummage, he must do so behind the ball.
+He may not play the ball as it emerges between the feet of his front row if he is in front of the off-side line.
+Exception:— The restrictions on leaving the scrummage in front of the off-side line do not apply to a player taking part in “wheeling” a scrummage providing he immediately plays the ball.
+(2) A player is off-side if he, being a player of either team who puts the ball in the scrummage, remains, or places either foot, in front of the ball while it is in the scrummage, or if he is the immediate opponent of the player putting in the ball, takes up position on the opposite side of the scrummage in front of the off-side line.
+Penalty:— Penalty kick at the place of infringement.
+(ix) Players must retire without delay to the scrummage off-side line when a scrummage is forming. Loiterers must be penalised.
+(x) Any player of either team may at a particular scrummage be the player who puts in the ball or who takes up position as scrum half when his opponent is putting in the ball; but such player isat that scrummage the only player of his team
+who has the benefit of Law 24B (2).
+
+Law 24
+(xi) If the scrummage has turned or wheeled through 180° the true concept of the scrummage off-side line cannot be applied. Players not in the scrummage except the scrum half shall, however, not proceed beyond the nearer scrummage off-side line. In these circumstances any player whose position in the scrummage is such that his feet represent the hindmost feet in that particular scrummage, if he has continued binding throughout the turn or wheel, is permitted to detach himself from the scrummage provided he immediately picks up the ball which is at his feet. On his so doing the scrummage is at an end.
+
+C. Off-side at Ruck or Maul.
+The term “off-side line" means a line parallel to the goal-lines through the hindmost foot of the player’s team in the ruck or maul.
+(1) Ruck or Maul otherwise than at line-out.
+While a ruck or maul is taking place (including a ruck or maul which continues after a line-out has ended) a player is off-side if he:—
+(a) joins it from his opponents’ side, or
+(b) joins it in front of the ball, or
+(c) does not join the ruck or maul but fails to retire behind the off-side line without delay, or
+(d) unbinds from the ruck or leaves the maul and does not immediately either rejoin it behind the ball or retire behind the off-side line, or
+(e) advances beyond the off-side line with either foot and does not rejoin the ruck or maul.
+Penalty:— Penalty kick at place of infringement.
+
+(2) Ruck or Maul at line-out.
+The term “participating in the line-out” has the same meaning as in Section D of this Law. A player participating in the line-out is not obliged to join or remain in the ruck or maul and if he is not in the ruck or maul he continues to participate in the line-out until it has ended. While a line-out is in progress and a ruck or maul takes place, a player is off-side if he:—
+(a) joins the ruck or maul from his opponents side, or
+(b) joins it in front of the ball, or
+(c) being a player who is participating in the line-out and is not in the ruck or maul, does not retire and remain at the off-side line defined in this Section.
+Penalty:— Penalty kick fifteen metres from the touch line along the line-of-touch.
+(d) being a player who is not participating in the line-out, remains or advances with either foot in front of the off-side line defined in Section D of this Law.
+Penalty:— Penalty kick on the offending team’s off-side line (as defined in Section D of this Law) opposite the place of infringement but not less than fifteen metres from the touch line.
+
+NOTE
+(xii) When the line-out has ended but the ruck or maul is still taking place, a player is off-side if he infringes Section (1) of these laws.
+
+D. Off-side at Line-out.
+The term “participating in the line-out” refers exclusively to the following players:—
+• those players who are in the line-out, and
+• the player who throws in the ball, and
+• his immediate opponent who may have the option of throwing in the ball, and
+• one other player of either team who takes up position to receive the ball if it is passed or knocked back from the line-out.
+All other players are not participating in the line-out.
+The term “off-side line" means a line ten metres behind the line-of-touch and parallel to the goal lines or, if the goal line be nearer than ten metres to the line-of-touch, the “off-side line” is the goal line.
+
+Off-side while participating in line-out
+(1) A participating player is off-side if:—
+(a) before the ball has touched a player or the ground he wilfully remains or advances with either foot in front of the line-of-touch, unless he advances solely in the act of jumping for the ball, or
+(b) after the ball has touched a player or the ground, if he is not carrying the ball, he advances with either foot in front of the ball, unless he is lawfully tackling or attempting to tackle an opponent who is participating in the line-out. Such tackle or attempt to tackle must, however, start from his side of the ball, or
+(c) in a peeling off movement he fails to keep moving close to the line-out until a ruck or maul is formed and he joins it or the line-out ends, or
+(d) before the line-out ends he moves beyond a position fifteen metres from the touch line.
+Exception:— Players of the team throwing in the ball may move beyond a position of fifteen metres from the touch line for a long throw-in to them. They may do so only when the ball leaves the hand of the player throwing it in and if they do so their opponents participating in the line-out may follow them. If players so move and the ball is not thrown to or beyond them they must be penalised for off-side.
+Penalty:— Penalty kick fifteen metres from the touch line along the line-of-touch.
+
+NOTES
+(xiii) Players who advance beyond the off-side line or who move beyond a position fifteen metres from the touch line in the expectation of a long throw-in must be penalised if, for any reason, the ball is not thrown beyond that position.
+(xiv) A player jumping unsuccessfully for the ball who crosses the line-of-touch should be given an opportunity to retire before being penalised.
+(xv) The referee should be strict in dealing with those players who, while not disputing possession of the ball in the line-out, advance to an off-side position whether intentionally or not.
+
+(2) The player throwing in the ball and his immediate opponent must:—
+(a) remain within five metres of the touch line, or
+(b) retire to the off-side line, or
+(c) join the line-out after the ball has been thrown in five metres, or
+(d) move into position to receive the ball if it is passed or knocked back from the line-out provided no other player is occupying that position at that line-out.
+
+NOTE
+(xvi) If a player other than the wing-threequarter throws in the ball from touch, the wing-threequarter must retire to the off-side line, or join the line-out.
+
+Off-side while not participating in line-out
+(3) A player who is not participating is off-side if before the line-out has ended he advances or remains with either foot in front of the off-side line.
+Exception:— Players of the team throwing in the ball who are not participating in the line-out may advance for a long throw-in to them beyond the line-out. They may do so only when the ball leaves the hand of the player throwing in the ball and, if they do, their opponents may advance to meet them. If players so advance for a long throw-in to them and the ball is not thrown to them they must be penalised for off-side.
+
+NOTE
+(xvii) If a player not participating in the line-out is off-side, the referee should not whistle immediately if the opposing team is likely to gain an advantage. He should apply the advantage law in all such cases.
+(Note xii also applies.)
+
+Players returning to “on-side” position
+(4) A player is not obliged, before throwing in the ball, to wait until players of his team have returned to or behind the line-out but such players are off-side unless they return to an on-side position without delay.
+Penalty:— Penalty kick on the offending team's off-side line opposite the place of infringement, but not less than fifteen metres from the touch line.
+
+NOTE
+(xviii) Where these Laws state a line which determines the off-side position such line stretches continuously from touch line to touch line.
+
+LAW 25. ON-SIDE.
+On-side means that a player is in the Game and not liable to penalty for off-side.
+
+Player made on-side by action of his team
+(1) A player who is off-side in general play, including an off-side player who is within ten metres of an opponent waiting to play the ball or where the ball pitches and is retiring as required, becomes on-side as a result of any of the following actions of his team:—
+• when the off-side player has retired behind the player of his team who last kicked, touched or carried the ball, or
+• when one of his team carrying the ball has run in front of him, or
+• when one of his team has run in front of him after coming from the place or from behind the place where the ball was kicked.
+In order to put the off-side player on-side, this other player must be in the playing area. But he is not debarred from following up in touch or touch-in-goal.
+
+NOTE
+(i) An off-side player who is within ten metres of an opponent waiting to play the ball or where a ball pitches, must retire and continue to do so up to ten metres until he is put on-side. If he does not do so, he must be penalised.
+
+Player made on-side by action of opposing team
+(2) Any player who is off-side in general play, except an off-side player within ten metres of an opponent waiting to play the ball or where the ball pitches, becomes on-side as a result of any of the following actions:—
+• when an opponent carrying the ball has run five metres, or
+• when an opponent kicks or passes the ball, or
+• when an opponent intentionally touches the ball and does not catch or gather it.
+An off-side player within ten metres of an opponent waiting to play the ball or where the ball pitches, cannot be put on-side by any action of his opponents. Any other off-side player in general play is always put on-side when an opponent plays the ball.
+
+Player retiring at scrummage, ruck, maul or line-out
+(3) A player who is in an off-side position when a scrummage, ruck, maul or line-out is forming or taking place and is retiring as required by Law 24 (Off-side) becomes on-side:—
+• when an opponent carrying the ball has run five metres, or
+• when an opponent has kicked the ball.
+An off-side player in this situation is not put on-side when an opponent passes the ball.
+
+NOTES
+(ii) The referee should be careful to ensure that no benefit under Law 25 (2) is gained by loiterers who wilfully remain in an off-side position and thereby prevent opponents from running with, kicking, passing or otherwise playing the ball.
+(iii) When a team has gained quick possession from a scrummage, ruck, maul or line-out and starts a passing movement, opponents who are retiring must not be allowed to interfere with the movement unless the conditions of Law 25 (3) exist. Referees should be strict in applying this.
+
+LAW 26. FOUL PLAY.
+Foul Play is any action by a player which is contrary to the letter and spirit of the Game and includes obstruction, unfair play, misconduct, dangerous play, unsporting behaviour, retaliation and repeated infringements.
+
+Obstruction
+(1) It is illegal for any player:—
+(a) who is running for the ball to charge or push an opponent running for the ball, except shoulder to shoulder,
+(b) who is in an off-side position wilfully to run or stand in front of another player of his team who is carrying the ball, thereby preventing an opponent from reaching the latter player,
+(c) who is carrying the ball after it has come out of a scrummage, ruck, maul or line-out, to attempt to force his way through the players of his team in front of him,
+(d) who is an outside player in a scrummage or ruck to prevent an opponent from advancing round the scrummage or ruck.
+Penalty:— Penalty kick at the place of infringement. A penalty try may be awarded.
+
+NOTES
+(i) There are no circumstances in which a player carrying the ball can be penalised for obstruction.
+(ii) The referee should note that:—
+(a) The intention of this Law as regards the penalties to be imposed for serious forms of obstruction must be applied.
+(b) If a player is guilty of charging or obstruction or holding an opponent who is not carrying the ball or any other form of foul play, before any other action is taken the player must at once be cautioned or sent off. If he offends a second time, the referee has no alternative to sending him off. If the offence prevents a try which probably would otherwise have been scored, a penalty try must be awarded.
+(c) The intention of the International Board is that if the referee has any doubt as to the balance of probability, he should give the benefit of the doubt in favour of the non-offending team and award the penalty try.
+
+Unfair Play, Repeated Infringements
+(2) It is illegal for any player:—
+(a) deliberately to play unfairly or wilfully infringe any Law of the Game,
+(b) wilfully to waste time,
+(c) wilfully to knock or throw the ball from the playing area into touch, touch-in-goal or over the dead-ball line.
+(d) to infringe repeatedly any Law of the game.
+Penalty:— Penalty kick at place of infringement. A penalty try may be awarded.
+For offences under (2) (c) occurring in In-goal, Law 14 penalty (e) applies. For offences under (2) (d) a player may be cautioned and, if he repeats the offence, must be ordered off.
+
+Misconduct, Dangerous Play
+(3) It is illegal for any player:—
+(a) to strike an opponent,
+(b) wilfully to hack or kick an opponent or trip him with the foot, or to trample on an opponent lying on the ground.
+(c) to tackle early, or late or dangerously, including the action known as a “stiff arm tackle”,
+(d) who is not running for the ball wilfully to charge or obstruct an opponent who has just kicked the ball,
+(e) to hold, push, charge, obstruct or grasp an opponent not holding the ball except in a scrummage, ruck or maul, (Except in a scrummage or ruck the dragging away of a player lying close to the ball is permitted. Otherwise pulling any part of the clothing of an opponent is holding.)
+(f) in the front row of a scrummage to form down some distance from the opponents and rush against them,
+(g) wilfully to cause a scrummage, ruck or maul to collapse,
+(h) while the ball is out of play to molest, obstruct or in any way interfere with an opponent or be guilty of any form of misconduct.
+(i) to commit any misconduct on the playing area which is prejudicial to the spirit of good sportmanship.
+Penalty: A player guilty of misconduct and dangerous play shall either be ordered off or else cautioned that he will be sent off if he repeats the offence. For a similar offence after caution, the player must be sent off.
+In addition to a caution or ordering off a penalty try or a penalty kick shall be awarded as follows:—
+(i) If the offence prevents a try which would otherwise probably have been scored, a penalty try shall be awarded.
+(ii) The place for a penalty kick shall be:—
+(a) For offences other than under paragraphs (d) and (h), at the place of infringement.
+(b) For an infringement of (d) the non-offending team shall have the option of taking the kick at the place of infringement or where the ball alights, and if the ball alights
+• in touch, the mark is fifteen metres from the touch line on a line parallel to the goal lines through the place where it went into touch, or
+• within fifteen metres from the touch line, it is fifteen metres from the touch line on a line parallel to the goal lines through the place where it alighted, or
+• in In-goal, touch-in-goal, or over or on the dead-ball line, it is five metres from the goal line on a line parallel to the touch line through the place where it crossed the goal line or fifteen metres from the touch line whichever is the greater.
+When the offence takes place in touch the “place of infringement” in the optional penalty award is fifteen metres from the touch line opposite to where the offence took place.
+If the offence takes place in touch-in-goal Law 14 Penalty (d) applies.
+(c) For an offence under (h), at any place where the ball would next have been brought into play if the offence had not occurred, or, if that place is on or beyond the touch line, fifteen metres from that place, on a line parallel to the goal lines.
+(iii) For an offence in In-goal, a penalty kick is to be awarded only for offences under Law 14 Penalty (d) and Law 26 (3) (h).
+(iv) For an offence under Law 26 (3) (h), the penalty kick is to be taken at whichever is the place where play would restart, that is
+• at the twenty-two metres line (at any point the non-offending team may select), or
+• at the centre of the half-way line, or
+• if a scrummage five metres from the goal line would otherwise have been awarded, at that place fifteen metres from the touch line on a line five metres from and parallel to the goal line, whichever is the greater.
+(v) For an offence which occurs outside the playing area while the ball is still in play and which is not otherwise covered in the foregoing, the penalty kick shall be awarded in the playing area fifteen metres from the touch line and opposite to where the offence took place,
+(vi) For an offence reported by a Touch-Judge under Law 6B(6) a penalty kick may be awarded where the offence occurred or at the place where play would restart.
+
+NOTES
+(iii) “Playing the man without the ball” and all forms of dangerous tackling including early, late and stiff arm “tackling” or attempting to tackle a player around the neck or head MUST be punished severely. Players who wilfully resort to this type of foul play must be sent off the field. A penalty try must be awarded if the late tackle prevents a PROBABLE try.
+(iv) It is for the referee to decide what constitutes a dangerous tackle, having regard to the circumstances, e.g., the apparent intentions of the tackler, or the nature of the tackle, or the defenceless position of the player being tackled or knocked over, which may be the cause of serious injury.
+(v) It is for the referee to determine in the circumstances of the particular case whether the following actions constitute dangerous play:—
+(a) If a player charges or knocks down an opponent carrying the ball without any attempt to grasp him (as in a tackle);
+(b) If a player taps or pulls the foot or feet of another player who is jumping in a line-out; but this is prima facie dangerous play.
+(vi) A player shall not “take the law into his own hands” nor wilfully do anything that is dangerous to an opponent even if the latter is infringing the Laws.
+(vii) If a player is obstructed after kicking the ball and the ball strikes a goal post, the optional penalty should be awarded where the ball alights after bouncing off the post.
+(viii) If a penalty kick has been awarded and, before the kick has been taken, the offending team infringes Law 26 (3) (h), the referee should
+(a) caution or send off the player guilty of misconduct and
+(b) in addition advance the mark for the penalty kick ten metres, this to cover both the original infringement and the misconduct.
+(ix) If a penalty kick is awarded to a team and before the kick is taken, a player of that team infringes Law 26 (3) (h), the referee should
+(a) caution or send off the player guilty of misconduct and
+(b) declare the penalty kick void and
+(c) award a penalty kick against the team last guilty of misconduct.
+(x) The referee should note that:—
+(a) Repeated infringement is a question of fact and not a question of whether the offender intended to infringe.
+(b) If the same player has to be penalised repeatedly he should be dealt with under Law 26 (2) (d).
+(c) Foul play must not be condoned.
+(d) Repeated infringements arise mainly in connection with Scrummages, Off-side and Line-outs. If a player has been penalised for infringing one of these Laws several times in the same match, he should be cautioned and, if he repeats the offence, sent off.
+(e) It is a question for the referee whether or not a series of the same offences by different players of a team amounts to repeated infringements. If he considers that it does, he should give a general warning to that team and, if the offence is repeated, he must send the offending player off the field.
+(f) In deciding the number of offences which should constitute “repeated infringement” the referee should always apply a strict standard in representative and senior matches. On the third occasion a caution must be given.
+In the case of junior or minor matches where ignorance of the Laws and lack of skill may account for many infringements, a less strict standard may be applied.
+(xi) The International Board and the Unions in membership with it will fully support referees in the strict and uniform enforcement of the Laws as to repeated infringements.
+
+Player Ordered Off.
+A player who is ordered off shall take no further part in the match. When a player is ordered off, the referee shall, as soon as possible after the match, send to the Union or other disciplinary body having jurisdiction over the match a report naming the player and describing the circumstances which necessitated the ordering off. Such report shall be considered by the Union or other disciplinary body having jurisdiction over the match who shall take such action and inflict such punishment as they see fit.
+When a player is ordered off the playing enclosure under Law 26 in a match played under the jurisdiction of the R.F.U. the procedure shall be as follows:
+The referee shall send his report within 48 hours to:
+(a) The Constituent Body to which the player’s Club is allocated.
+(b) The R.F.U. when two or more players are ordered off together for offences arising from their involvement in the same incident and the Clubs for which they were playing are allocated to separate Constituent Bodies.
+(c) The R.F.U. if the Club for whom the player was playing is not allocated to a Constituent Body.
+(d) The Union for which the player was playing in International matches.
+Note: In all the above cases the Referee shall send a copy of his report to his own Referee Society.
+(e) The Constituent Body in whose area the match was played if he is not a member of a recognised Referee Society.
+The Report will then be dealt with by the R. F.U. under the powers in that behalf contained in Bye-Law 13 (g) or by the Constituent Body concerned under the powers delegated to it under the powers contained in Bye-Law 13 (c) (see “Delegation of Powers” in R.F.U. Handbook).
+Club secretaries shall report to their Constituent Bodies, within 4 days, the name and address of any player of their Club who has been ordered off the playing enclosure.
+In the event of an abandoned match the Referee should:—
+(i) report individual culprits under Law 26.
+(ii) abandon the game under Law 6.
+(iii) explain to both Captains the reasons why he is abandoning it.
+
+LAW 27. PENALTY KICK.
+A penalty kick is a kick awarded to the non-offending team as stated in the laws. It may be taken by any player of the non-offending team and by any form of kick provided that the kicker, if holding the ball, must propel it out of his hands or, if the ball is on the ground, he must propel it a visible distance from the mark. He may keep his hands on the ball while kicking it.
+(1) The non-offending team has the option of taking a scrummage at the mark and shall put in the ball.
+(2) When a penalty kick is taken the following shall apply:—
+(a) The kick must be taken without undue delay.
+(b) The kick must be taken at or behind the mark on a line through the mark and the kicker may place the ball for a place kick. If the place prescribed by the Laws for the award of a penalty kick is within five metres of the opponents’ goal line, the mark for the penalty kick or a scrummage taken instead of it shall be five metres from the goal line on a line through that place.
+(c) The kicker may kick the ball in any direction and he may play the ball again, without any restriction, except that if he has indicated to the referee that he intends to attempt a kick at goal or has taken any action indicating such intention he must not kick the ball in any other way. Any indication of intention is irrevocable.
+(d) The kicker’s team except the placer for a place kick must be behind the ball until it has been kicked.
+(e) The opposing team must run without delay (and continue to do so while the kick is being taken and while the ball is being played by the kicker’s team) to or behind a line parallel to the goal lines and ten metres from the mark, or to their own goal line if nearer to the mark. They must there remain motionless with their hands by their sides until the kick has been taken.
+Retiring players will not be penalised if their failure to retire ten metres is due to the rapidity with which the kick has been taken, but they must not stop retiring and enter the game until an opponent carrying the ball has run five metres.
+(f) The opposing team must not prevent the kick or interfere with the kicker in any way. This applies to actions such as wilfully carrying, throwing or kicking the ball away out of reach of the kicker.
+Penalty:—
+• For an infringement by the kicker’s team—a scrummage at the mark.
+• For an infringement by the opposing team—a penalty kick ten metres in front of the mark or five metres from the goal line whichever is the nearer, on a line through the mark. Any player of the non-offending team may take the kick.
+
+NOTES
+(i) The kick must be taken with the ball which was in play unless the referee decides that the ball is defective.
+(ii) The note (ix) under Law 13 applies also in the case of a penalty kick.
+(iii) A player taking a penalty kick may not bounce the ball on his knee. The kick must be made with the foot or lower leg. If a player fails to kick the ball, a scrummage should be ordered.
+(iv) In addition to the general provision regarding waste of time, the kicker is bound to kick without delay, under penalty.
+The instructions in the second paragraph of note (i) on Law 13 apply also in the case of a penalty kick.
+Even without a caution, if the delay is clearly a breach of Law the kick should be disallowed and a scrummage ordered.
+(v) The referee must always make up time lost by any delay in taking the kick, as provided for in note (ii) under Law 5.
+(vi) If the kicker appears to be about to take a kick at goal, the referee may ask him to state his intention.
+(vii) If the kicker is taking a kick at goal, all players of the opposing team must remain passive from the time the kicker commences his run until the kick has been taken.
+(viii) When a penalty kick is taken in In-goal, a penalty try may be awarded if a defending player by foul play prevents an opponent from first grounding the ball.
+(ix) If, from a penalty kick taken in In-goal, the ball travels into touch-in-goal or over the dead-ball line, a five metres scrummage should be ordered, the attacking team to put in the ball.
+(x) If the kicker takes a drop kick and a goal results, the goal stands even though the kicker has not indicated to the referee an intention to kick at goal.
+(xi) If, notwithstanding a prior infringement by the opposing team, a goal is kicked, the goal should be awarded instead of a further penalty kick.
+(xii) The referee should not award a further penalty if he is satisfied that the reason for such further penalty has been deliberately contrived by the kicker’s team, but should allow play to continue.
+
+LAW 28. FREE KICK.
+A free kick is a kick awarded for a fair-catch, or to the non-offending team as stated in the laws.
+A goal shall not be scored by the kicker from a free kick unless the ball has first been played by another player.
+For an infringement it may be taken by any player of the non-offending team.
+It may be taken by any form of kick provided that the kicker, if holding the ball, must propel it out of his hands or, if the ball is on the ground, he must propel it a visible distance from the mark. He may keep his hand on the ball while kicking it.
+(1) The team awarded a free kick has the option of taking a scrummage at the mark and shall put in the ball.
+(2) When a kick is taken, it must be taken without undue delay.
+(3) The kick must be taken at or behind the mark on a line through the mark and the kicker may place the ball for a place kick.
+(4) If the place prescribed by the Laws for the award of a free kick is within five metres of the opponents goal line, the mark for the free kick, or the scrummage taken instead of it, shall be five metres from the goal line on a line through that place.
+(5) The kicker may kick the ball in any direction and he may play the ball again without restriction.
+(6) The kicker’s team, except a placer for a place kick, must be behind the ball until it has been kicked.
+(7) The opposing team must not wilfully resort to any action which may delay the taking of a free kick. This includes actions such as wilfully carrying, throwing or kicking the ball away out of reach of the kicker.
+(8) The opposing team must retire without delay to or behind a line parallel to the goal lines and ten metres from the mark or to their own goal line if nearer to the mark. Having so retired, players of the opposing team may charge with a view to preventing the kick, as soon as the kicker begins his run or offers to kick.
+Retiring players will not be penalised if their failure to retire ten metres is due to the rapidity with which the kick has been taken, but they may not stop retiring and enter the game until an opponent carrying the ball has run five metres.
+(9) If having charged fairly, players of the opposing team prevent the kick from being taken it is void.
+(10) Neither the kicker nor the placer shall wilfully do anything which may lead the opposing team to charge prematurely. If either does so, the charge shall not be disallowed.
+Penalty:—
+• For an infringement by the kicker’s team or for a void kick—a scrummage at the mark and the opposing team shall put in the ball.
+If the mark is in In-goal, the scrummage shall be awarded five metres from the goal line on a line through the mark.
+• For an infringement by the opposing team—a penalty kick ten metres in front of the mark or five metres from the goal-line whichever is nearer, on a line through the mark. Any player of the non-offending team may take the kick.
+
+NOTES
+(i) The kick must be taken with the ball which was in play unless the referee decides that the ball is defective.
+(ii) A player taking a free kick may not bounce the ball on his knee. The kick must be made with the foot or lower leg. If a player fails to kick the ball, a scrum should be ordered.
+(iii) The kicker may not feint to kick and then draw back. Once he makes any movement to kick, the opponents may charge.
+(iv) In addition to the general provision regarding waste of time, the kicker is bound to kick without delay, under penalty.
+(v) The referee shall see that the opposing players do not gradually creep up and that they have both feet behind the ten metres line, otherwise he shall award a penalty kick in accordance with the penalty provisions of Law 28.
+(vi) If the kick is taken from behind the goal line, the ball is in play if an opponent legitimately plays it before it crosses the goal line, and a try may be scored.
+(vii) When a free kick is taken in In-goal, a penalty try may be awarded if a defending player, by foul play, prevents an opponent from first grounding the ball.
+(viii) If from a free kick taken in In-goal the ball travels into touch-in-goal or over the dead-ball line, a five metres scrummage should be ordered, the attacking team to put in the ball.
+(ix) If opponents lawfully charge down a free kick in the playing area, play should be allowed to continue.
+(x) If a free kick has been awarded in the field-of-play and the player retires to his In-goal to take the kick and his opponents having lawfully charged to prevent the kick from being taken, a scrummage shall be awarded five metres from the goal line on a line through the mark.
+(xi) If a free kick has been awarded in In-goal and the opponents having lawfully charged prevent the kick from being taken, a scrummage shall be awarded five metres from the goal line on a line through the mark.
+(xii) The referee should not substitute a penalty kick for a free kick if he is satisfied that the reason for such a penalty has been deliberately contrived by the kicker’s team, but should allow play to continue.(19), (20)
+Leaving Playing Enclosure or Resuming ...........6 A (8) (c)
+Misconduct.......................................6 A (8), 26
+Number of.......................................3
+Ordered off.....................................26
+Participating in Line-out...........23 B (20), 24 C (2), 24 D, Definition (1)
+Reported to the Union...........................26
+Touching Referee................................9
+Playing Enclosure.......................6 A (7), 6 A (8) (c)
+Playing time lost................................5
+Props...........................................20
+Punt............................................Definition
+Pushing an Opponent..............23 B (15), (19), 26 (1), (3)
+Referee—Appointment and Duties....................6 A
+Repeated Infringement of Laws.......................26
+Replacements.......................................3
+Ruck............................................21, 24 C
+Scoring, Method of...................................11
+Scrummage ............................................20
+Beginning of...............................20 (10)
+Binding in....................................20 (6)
+Entering from Opponents’ Side.................24 B, C
+Forcing Way Through...........................26 (1) (c)
+Off-side and off-side line ...................24 B
+Pushed Over Goal Line ........................12 B (3)
+Putting Ball into....................20 (7), (10), (11)
+Restrictions on Players in....................20 (12)
+Start of Match................................6 A (6) (a), 7
+Stoppage of Match.............................5, 6 A (6) (b)
+Stoppage of Play................................5, 6 (6)
+Striking an Opponent...............................26 (3) (a)
+Studs..................................................4 (3)
+Tackle..............................................7, 18
+Tackled Player......................................18
+Ten Metres Line at Kick-off................1, Plan, 10 (2)
+at Line-out........................24 D, Definition
+Throw-forward ......................................17
+Time................................................5
+Timekeeper......................................6 A (3)
+Toss................................................5
+Touch...........................................1, 6, 23 A
+Throwing in from .....................6 B, 17, 23 B
+Throwing into .................................26
+Touch-down ................................6, 9, 12 C, 14
+Touch-in-Goal ...............1, Plan, 6 B (4), 14 Definition
+Touch Judges—Appointment and Duties.................6 B
+Touch Line..................................1, Plan, 23 B
+Trial Matches...................................3 (1) (a)
+Tripping........................................26 (3) (b)
+Try ......................................9, 11, 12, 14, 26
+Twenty-two Metres Line....................1, Plan, 14, 15
+Unconverted Try................................10, 13 (1)
+Undue Delay...............................13 (2), 27 (2), 28
+Union..........................................Definition
+Upright...........................................1, Plan
+Waste of Time..................................26 (2) (b)
+Wilful Obstruction and Foul Play ..............26 (1), (3)
+Collapsing of Scrummage .................20 (16) (d)
+Infringements (minor) ...................26 (2) (c)
+Knock-on or Throw Forward...................17 (1)
+Kicking Out of Scrummage.................20 (14) (c)
+Misleading of Opponents.....................13, 28
+Throw into Touch.........................26 (2) (c)
