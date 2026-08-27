@@ -1,0 +1,979 @@
+(full ruleset):
+- (main ruleset):
+  - LAW 1:
+    - sublaw 1: []
+    - sublaw 2: []
+    - sublaw 3: []
+    - P1: []
+    - P2: []
+    - P3:
+      - a: []
+      - b: []
+      - c: []
+      - d: []
+      - e: []
+    - sublaw 7:
+      - a: []
+      - b: []
+      - c: []
+      - d: []
+      - e: []
+    - sublaw 8:
+      - a: []
+      - b: []
+      - c: []
+      - d: []
+    - sublaw 9: []
+    - sublaw 10: []
+    - sublaw 11: []
+    - sublaw 12: []
+    - sublaw 13: []
+    - sublaw 14: []
+    - sublaw 15: []
+  - LAW 2:
+    - sublaw 1: []
+    - sublaw 2: []
+    - sublaw 3: []
+    - sublaw 4: []
+    - sublaw 5: []
+    - sublaw 6: []
+    - sublaw 7: []
+  - LAW 3:
+    - sublaw 1: []
+    - sublaw 2: []
+    - sublaw 3:
+      - penalty 1: []
+    - sublaw 4: []
+    - sublaw 5: []
+    - sublaw 6: []
+    - sublaw 7:
+      - penalty 1: []
+    - sublaw 8: []
+    - sublaw 9: []
+    - P1: []
+    - P2: []
+    - P3: []
+    - P4: []
+    - sublaw 14: []
+    - sublaw 15: []
+    - sublaw 16: []
+    - sublaw 17: []
+    - sublaw 18: []
+    - sublaw 19: []
+    - sublaw 20: []
+    - sublaw 21: []
+    - sublaw 22: []
+    - sublaw 23: []
+    - sublaw 24: []
+    - sublaw 25: []
+    - sublaw 26: []
+    - sublaw 27:
+      - a: []
+      - b: []
+      - c: []
+    - sublaw 28: []
+    - sublaw 29: []
+    - sublaw 30: []
+    - sublaw 31: []
+    - sublaw 32:
+      - a: []
+      - b: []
+    - sublaw 33: []
+    - sublaw 34: []
+    - sublaw 35: []
+    - sublaw 36: []
+    - sublaw 37: []
+    - sublaw 38:
+      - a: []
+      - b: []
+      - c: []
+      - d: []
+    - sublaw 39:
+      - a: []
+    - sublaw 40: []
+  - LAW 4:
+    - sublaw 1: []
+    - sublaw 2: []
+    - sublaw 3:
+      - a: []
+      - b: []
+      - c: []
+      - d: []
+      - e: []
+      - f: []
+      - g: []
+      - h: []
+      - i: []
+      - j: []
+    - sublaw 4:
+      - a: []
+      - b: []
+      - c: []
+    - sublaw 5:
+      - a: []
+      - b: []
+      - c: []
+      - d: []
+      - e: []
+      - f: []
+      - g: []
+      - h: []
+    - sublaw 6: []
+    - sublaw 7:
+      - penalty 1: []
+    - sublaw 8: []
+  - LAW 5:
+    - sublaw 1: []
+    - sublaw 2: []
+    - sublaw 3: []
+    - sublaw 4: []
+    - sublaw 5:
+      - a: []
+      - b: []
+    - sublaw 6:
+      - a: []
+      - b: []
+      - c: []
+      - d: []
+    - sublaw 7:
+      - a: []
+      - b: []
+      - c: []
+      - d: []
+    - sublaw 8:
+      - a: []
+      - b: []
+      - c: []
+    - sublaw 9: []
+    - sublaw 10: []
+  - LAW 6:
+    - sublaw 1: []
+    - sublaw 2: []
+    - sublaw 3: []
+    - sublaw 4: []
+    - sublaw 5:
+      - a: []
+      - b: []
+      - c: []
+    - sublaw 6: []
+    - sublaw 7: []
+    - sublaw 8:
+      - a: []
+      - b: []
+      - c: []
+      - d: []
+      - e: []
+      - f: []
+      - g: []
+      - h: []
+    - sublaw 9:
+      - a: []
+      - b: []
+      - c: []
+      - d: []
+      - e: []
+      - f: []
+    - sublaw 10: []
+    - sublaw 11:
+      - a: []
+      - b: []
+    - sublaw 12: []
+    - sublaw 13: []
+    - sublaw 14: []
+    - sublaw 15:
+      - a: []
+      - b: []
+      - c: []
+      - d: []
+      - e: []
+    - sublaw 16: []
+    - sublaw 17: []
+    - sublaw 18: []
+    - sublaw 19: []
+    - sublaw 20: []
+    - sublaw 21: []
+    - sublaw 22: []
+    - sublaw 23: []
+    - sublaw 24: []
+    - sublaw 25: []
+    - sublaw 26:
+      - a: []
+      - b: []
+      - c:
+        - 'i. ': []
+        - 'ii. ': []
+        - 'iii. ': []
+      - d: []
+    - sublaw 27:
+      - a: []
+      - b: []
+      - c: []
+      - d: []
+      - e: []
+    - sublaw 28: []
+    - sublaw 29:
+      - a: []
+      - b: []
+      - c: []
+    - sublaw 30: []
+  - LAW 7:
+    - sublaw 1:
+      - a: []
+      - b: []
+      - c: []
+      - d: []
+    - sublaw 2:
+      - a: []
+      - b: []
+      - c: []
+      - d: []
+    - sublaw 3:
+      - a: []
+      - b: []
+      - c: []
+      - d: []
+      - e: []
+      - f: []
+      - g: []
+      - h: []
+  - LAW 8:
+    - sublaw 1:
+      - a: []
+      - b: []
+      - c: []
+      - d: []
+      - e: []
+    - sublaw 2:
+      - a: []
+      - b: []
+      - c: []
+      - d: []
+      - e: []
+    - sublaw 3: []
+    - sublaw 4: []
+    - sublaw 5: []
+    - sublaw 6: []
+    - sublaw 7: []
+    - sublaw 8:
+      - a: []
+      - b: []
+      - c: []
+      - d:
+        - penalty 1: []
+    - sublaw 9:
+      - penalty 1: []
+    - sublaw 10: []
+    - sublaw 11: []
+    - sublaw 12: []
+    - sublaw 13: []
+    - sublaw 14: []
+    - sublaw 15:
+      - penalty 1: []
+    - sublaw 16: []
+    - sublaw 17: []
+    - sublaw 18: []
+    - sublaw 19: []
+    - sublaw 20: []
+    - sublaw 21:
+      - penalty 1: []
+    - sublaw 22: []
+    - sublaw 23: []
+    - sublaw 24:
+      - penalty 1: []
+    - sublaw 25: []
+    - sublaw 26: []
+    - sublaw 27:
+      - penalty 1: []
+    - sublaw 28: []
+    - sublaw 29: []
+  - LAW 9:
+    - sublaw 1: []
+    - sublaw 2: []
+    - sublaw 3: []
+    - sublaw 4: []
+    - sublaw 5: []
+    - sublaw 6:
+      - penalty 1: []
+    - sublaw 7:
+      - a: []
+      - b: []
+      - c:
+        - penalty 1: []
+      - d:
+        - penalty 1: []
+    - sublaw 8: []
+    - sublaw 9:
+      - penalty 1: []
+    - sublaw 10: []
+    - sublaw 11: []
+    - sublaw 12: []
+    - sublaw 13: []
+    - sublaw 14: []
+    - sublaw 15: []
+    - sublaw 16: []
+    - sublaw 17: []
+    - sublaw 18: []
+    - sublaw 19:
+      - a: []
+      - b: []
+      - c: []
+      - d: []
+    - sublaw 20:
+      - a: []
+      - b: []
+      - c: []
+    - sublaw 21: []
+    - sublaw 22: []
+    - sublaw 23: []
+    - sublaw 24:
+      - penalty 1: []
+    - sublaw 25:
+      - penalty 1: []
+      - b: []
+      - c: []
+      - d: []
+      - e: []
+      - f: []
+    - sublaw 26:
+      - penalty 1: []
+    - sublaw 27: []
+    - sublaw 28:
+      - penalty 1: []
+    - sublaw 29: []
+    - sublaw 30: []
+  - LAW 10:
+    - sublaw 1:
+      - a: []
+      - b: []
+      - c: []
+    - sublaw 2: []
+    - sublaw 3: []
+    - sublaw 4:
+      - a: []
+      - b: []
+      - c:
+        - penalty 1: []
+        - 'penalty ii. ': []
+    - sublaw 5:
+      - penalty 1: []
+    - sublaw 6:
+      - a: []
+      - b: []
+    - sublaw 7:
+      - a: []
+      - b:
+        - 'i. ': []
+        - 'ii. ': []
+        - 'iii. ': []
+        - 'iv. ': []
+    - sublaw 8: []
+    - sublaw 9: []
+    - sublaw 10:
+      - a: []
+      - b: []
+      - c: []
+    - sublaw 11:
+      - a: []
+      - b: []
+      - c:
+        - penalty 1: []
+  - LAW 11:
+    - sublaw 1: []
+    - sublaw 2:
+      - penalty 1: []
+    - sublaw 3:
+      - penalty 1: []
+    - sublaw 4: []
+    - sublaw 5:
+      - a: []
+      - b: []
+    - sublaw 6:
+      - penalty 1: []
+    - sublaw 7:
+      - penalty 1: []
+  - LAW 12:
+    - sublaw 1:
+      - penalty 1: []
+    - sublaw 2:
+      - penalty 1: []
+    - sublaw 3: []
+    - sublaw 4:
+      - penalty 1: []
+    - sublaw 5:
+      - a:
+        - penalty 1: []
+      - b:
+        - penalty 1: []
+    - sublaw 6:
+      - penalty 1: []
+    - sublaw 7: []
+    - sublaw 8:
+      - a: []
+      - b: []
+      - c: []
+      - d: []
+    - sublaw 9: []
+    - sublaw 10: []
+    - sublaw 11: []
+    - sublaw 12:
+      - a:
+        - penalty 1: []
+      - b:
+        - penalty 1: []
+      - c:
+        - penalty 1: []
+      - d:
+        - penalty 1: []
+        - 'penalty ii. ': []
+        - 'penalty iii. ': []
+        - 'penalty iv. ': []
+    - sublaw 13:
+      - penalty 1: []
+    - sublaw 14:
+      - penalty 1: []
+    - sublaw 15: []
+    - sublaw 16: []
+    - sublaw 17: []
+    - sublaw 18:
+      - penalty 1: []
+  - LAW 13:
+    - sublaw 1:
+      - a: []
+      - b: []
+      - c:
+        - penalty 1: []
+    - sublaw 2:
+      - penalty 1: []
+    - sublaw 3:
+      - a: []
+      - b: []
+      - c:
+        - penalty 1: []
+    - sublaw 4:
+      - penalty 1: []
+      - P1: []
+    - sublaw 5: []
+    - sublaw 6: []
+    - sublaw 7: []
+    - sublaw 8:
+      - a: []
+      - b: []
+      - c:
+        - 'i. ': []
+        - 'ii. ': []
+        - 'iii. ': []
+    - sublaw 9:
+      - a: []
+      - b: []
+      - c: []
+      - d: []
+      - e:
+        - penalty 1: []
+    - sublaw 10: []
+    - sublaw 11:
+      - a: []
+      - b: []
+      - c:
+        - penalty 1: []
+    - sublaw 12:
+      - a: []
+      - b: []
+      - c: []
+      - d: []
+    - sublaw 13:
+      - a: []
+      - b: []
+      - c:
+        - penalty 1: []
+    - sublaw 14: []
+    - sublaw 15:
+      - a: []
+      - b: []
+      - c: []
+      - d: []
+  - LAW 14:
+    - sublaw 1: []
+    - sublaw 2: []
+    - sublaw 3:
+      - penalty 1: []
+    - sublaw 4: []
+    - sublaw 5: []
+    - sublaw 6: []
+    - sublaw 7: []
+    - sublaw 8: []
+    - sublaw 9:
+      - penalty 1: []
+    - sublaw 10: []
+    - sublaw 11: []
+    - sublaw 12: []
+    - sublaw 13: []
+    - sublaw 14: []
+    - sublaw 15: []
+    - sublaw 16:
+      - a: []
+      - b: []
+      - c: []
+      - d: []
+      - e:
+        - penalty 1: []
+      - f: []
+      - g:
+        - penalty 1: []
+    - sublaw 17:
+      - penalty 1: []
+    - sublaw 18: []
+    - sublaw 19: []
+  - LAW 15:
+    - sublaw 1: []
+    - sublaw 2: []
+    - sublaw 3: []
+    - sublaw 4: []
+    - sublaw 5:
+      - penalty 1: []
+    - sublaw 6:
+      - penalty 1: []
+    - sublaw 7:
+      - a: []
+      - b:
+        - penalty 1: []
+      - c:
+        - penalty 1: []
+    - sublaw 8:
+      - penalty 1: []
+    - sublaw 9: []
+    - sublaw 10: []
+    - sublaw 11:
+      - a: []
+      - b:
+        - penalty 1: []
+      - c:
+        - penalty 1: []
+    - sublaw 12: []
+    - sublaw 13:
+      - penalty 1: []
+    - sublaw 14:
+      - penalty 1: []
+    - sublaw 15:
+      - penalty 1: []
+    - sublaw 16:
+      - a: []
+      - b: []
+      - c: []
+    - sublaw 17:
+      - a: []
+      - b: []
+      - c: []
+      - d: []
+      - e:
+        - penalty 1: []
+    - sublaw 18: []
+  - LAW 16:
+    - sublaw 1:
+      - a: []
+      - b: []
+      - c: []
+    - sublaw 2: []
+    - sublaw 3: []
+    - sublaw 4: []
+    - sublaw 5: []
+    - sublaw 6: []
+    - sublaw 7: []
+    - sublaw 8: []
+    - P1: []
+    - P2: []
+  - LAW 17:
+    - sublaw 1:
+      - a: []
+      - b:
+        - 'i. ': []
+        - 'ii. ': []
+    - sublaw 2:
+      - a: []
+      - b: []
+      - c: []
+      - d: []
+    - sublaw 3:
+      - penalty 1: []
+    - sublaw 4:
+      - a: []
+      - b: []
+      - c: []
+      - d:
+        - penalty 1: []
+    - sublaw 5:
+      - a: []
+      - b: []
+      - c: []
+    - sublaw 6:
+      - penalty 1: []
+    - sublaw 7: []
+    - sublaw 8:
+      - a: []
+      - P1: []
+      - P2: []
+      - P3: []
+      - P4: []
+      - P5: []
+      - g: []
+      - P1: []
+      - P2: []
+      - j: []
+      - P1: []
+      - P2: []
+      - P3: []
+      - n: []
+      - P1: []
+      - P2: []
+    - sublaw 9: []
+    - P1:
+      - a: []
+      - P1: []
+      - c: []
+      - P1: []
+      - P2: []
+      - P3: []
+      - P4: []
+      - P5: []
+    - sublaw 11: []
+    - sublaw 12:
+      - penalty 1: []
+    - sublaw 13: []
+    - sublaw 14:
+      - penalty 1: []
+    - sublaw 15: []
+    - sublaw 16:
+      - penalty 1: []
+    - sublaw 17:
+      - penalty 1: []
+    - sublaw 18:
+      - penalty 1: []
+    - sublaw 19:
+      - a: []
+      - b:
+        - penalty 1: []
+    - sublaw 20: []
+    - sublaw 21:
+      - penalty 1: []
+    - sublaw 22:
+      - penalty 1: []
+    - sublaw 23:
+      - penalty 1: []
+    - sublaw 24:
+      - penalty 1: []
+    - sublaw 25:
+      - a: []
+      - b:
+        - penalty 1: []
+      - c:
+        - penalty 1: []
+    - sublaw 26:
+      - penalty 1: []
+    - sublaw 27:
+      - penalty 1: []
+    - sublaw 28: []
+    - sublaw 29:
+      - a: []
+      - b: []
+      - c: []
+      - d: []
+    - sublaw 30:
+      - penalty 1: []
+    - sublaw 31:
+      - a: []
+      - b:
+        - penalty 1: []
+      - c:
+        - penalty 1: []
+      - d:
+        - penalty 1: []
+      - e:
+        - penalty 1: []
+    - sublaw 32: []
+    - sublaw 33: []
+    - sublaw 34: []
+    - sublaw 35:
+      - a: []
+      - b: []
+    - sublaw 36: []
+    - sublaw 37: []
+    - sublaw 38:
+      - penalty 1: []
+    - sublaw 39:
+      - a:
+        - 'i. ': []
+        - 'ii. ': []
+        - 'iii. ': []
+      - b: []
+      - c: []
+    - sublaw 40:
+      - penalty 1: []
+  - LAW 18:
+    - sublaw 1: []
+    - P1: []
+    - P2: []
+    - P3: []
+    - P4: []
+    - P5: []
+    - P6: []
+    - P7: []
+    - P8: []
+    - P9: []
+    - P10: []
+    - P11: []
+    - P12: []
+    - P13: []
+    - P14: []
+    - P15: []
+    - P16: []
+    - sublaw 18: []
+    - sublaw 19: []
+    - sublaw 20:
+      - penalty 1: []
+    - sublaw 21:
+      - penalty 1: []
+    - sublaw 22: []
+    - sublaw 23:
+      - a: []
+      - b: []
+      - c: []
+      - d:
+        - penalty 1: []
+    - sublaw 24: []
+    - sublaw 25: []
+    - sublaw 26:
+      - a: []
+      - b:
+        - penalty 1: []
+    - sublaw 27:
+      - a: []
+      - b: []
+      - c: []
+      - d:
+        - penalty 1: []
+    - sublaw 28:
+      - a: []
+      - b: []
+      - c: []
+      - d:
+        - penalty 1: []
+    - sublaw 29: []
+    - sublaw 30: []
+    - sublaw 31:
+      - a: []
+      - b: []
+      - c: []
+      - d: []
+      - e: []
+      - f: []
+      - g:
+        - penalty 1: []
+    - sublaw 32: []
+    - sublaw 33:
+      - penalty 1: []
+    - sublaw 34: []
+    - sublaw 35:
+      - penalty 1: []
+    - sublaw 36:
+      - penalty 1: []
+    - sublaw 37:
+      - penalty 1: []
+    - sublaw 38:
+      - penalty 1: []
+    - sublaw 39:
+      - penalty 1: []
+    - sublaw 40:
+      - penalty 1: []
+    - sublaw 41: []
+    - sublaw 42:
+      - penalty 1: []
+    - sublaw 43: []
+    - sublaw 44:
+      - a: []
+      - b: []
+    - sublaw 45: []
+    - sublaw 46:
+      - a: []
+      - b: []
+      - c: []
+    - sublaw 47: []
+    - sublaw 48:
+      - penalty 1: []
+    - sublaw 49: []
+    - sublaw 50:
+      - a: []
+      - b: []
+      - c: []
+      - d: []
+      - e:
+        - penalty 1: []
+    - sublaw 51: []
+    - sublaw 52:
+      - a: []
+      - b: []
+      - c: []
+      - d: []
+      - e: []
+    - sublaw 53:
+      - a: []
+      - b: []
+      - c: []
+      - d: []
+      - e:
+        - penalty 1: []
+    - sublaw 54:
+      - a: []
+      - b: []
+      - c:
+        - penalty 1: []
+      - d: []
+      - e: []
+      - f:
+        - penalty 1: []
+  - LAW 19:
+    - sublaw 1: []
+    - P1: []
+    - P2: []
+    - P3: []
+    - P4: []
+    - P5: []
+    - P6: []
+    - P7: []
+    - P8: []
+    - P9: []
+    - sublaw 11: []
+    - sublaw 12: []
+    - sublaw 13: []
+    - sublaw 14: []
+    - sublaw 15: []
+    - sublaw 16: []
+    - sublaw 17: []
+    - sublaw 18: []
+    - sublaw 19: []
+    - sublaw 20:
+      - penalty 1: []
+    - sublaw 21: []
+    - sublaw 22: []
+    - sublaw 23: []
+    - sublaw 24:
+      - penalty 1: []
+    - sublaw 25: []
+    - sublaw 26: []
+  - LAW 20:
+    - sublaw 1:
+      - a: []
+      - b: []
+    - sublaw 2: []
+    - sublaw 3: []
+    - sublaw 4: []
+    - sublaw 5: []
+    - sublaw 6: []
+    - sublaw 7: []
+    - sublaw 8:
+      - penalty 1: []
+    - sublaw 9: []
+    - sublaw 10:
+      - penalty 1: []
+    - sublaw 11:
+      - a: []
+      - b: []
+    - sublaw 12: []
+    - sublaw 13: []
+    - sublaw 14: []
+    - sublaw 15: []
+    - sublaw 16: []
+    - sublaw 17: []
+- DEFINITIONS:
+  - definitions 1: []
+  - definitions 2: []
+  - definitions 3: []
+  - definitions 4: []
+  - definitions 5: []
+  - definitions 6: []
+  - definitions 7: []
+  - definitions 8: []
+  - definitions 9: []
+  - definitions 10: []
+  - definitions 11: []
+  - definitions 12: []
+  - definitions 13: []
+  - definitions 14: []
+  - definitions 15: []
+  - definitions 16: []
+  - definitions 17: []
+  - definitions 18: []
+  - definitions 19: []
+  - definitions 20: []
+  - definitions 21: []
+  - definitions 22: []
+  - definitions 23: []
+  - definitions 24: []
+  - definitions 25: []
+  - definitions 26: []
+  - definitions 27: []
+  - definitions 28: []
+  - definitions 29: []
+  - definitions 30: []
+  - definitions 31: []
+  - definitions 32: []
+  - definitions 33: []
+  - definitions 34: []
+  - definitions 35: []
+  - definitions 36: []
+  - definitions 37: []
+  - definitions 38: []
+  - definitions 39: []
+  - definitions 40: []
+  - definitions 41: []
+  - definitions 42: []
+  - definitions 43: []
+  - definitions 44: []
+  - definitions 45: []
+  - definitions 46: []
+  - definitions 47: []
+  - definitions 48: []
+  - definitions 49: []
+  - definitions 50: []
+  - definitions 51: []
+  - definitions 52: []
+  - definitions 53: []
+  - definitions 54: []
+  - definitions 55: []
+  - definitions 56: []
+  - definitions 57: []
+  - definitions 58: []
+  - definitions 59: []
+  - definitions 60: []
+  - definitions 61: []
+  - definitions 62: []
+  - definitions 63: []
+  - definitions 64: []
+  - definitions 65: []
+  - definitions 66: []
+  - definitions 67: []
+  - definitions 68: []
+  - definitions 69: []
+  - definitions 70: []
+  - definitions 71: []
+  - definitions 72: []
+  - definitions 73: []
+  - definitions 74: []
+  - definitions 75: []
+  - definitions 76: []
+  - definitions 77: []
+  - definitions 78: []
+  - definitions 79: []
+  - definitions 80: []
+  - definitions 81: []
+  - definitions 82: []
+  - definitions 83: []
+  - definitions 84: []
+  - definitions 85: []
+  - definitions 86: []
+  - definitions 87: []
+  - definitions 88: []
+  - definitions 89: []
+  - definitions 90: []
+  - definitions 91: []
+  - definitions 92: []
+  - definitions 93: []
+  - definitions 94: []

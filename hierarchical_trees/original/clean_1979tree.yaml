@@ -1,0 +1,1286 @@
+(full ruleset):
+- (main ruleset):
+  - LAW 1:
+    - P1: []
+    - P2: []
+    - P3: []
+    - P4: []
+    - P5: []
+    - sublaw 6:
+      - P1: []
+    - sublaw 7:
+      - P1: []
+    - sublaw 8:
+      - P1: []
+  - LAW 2:
+    - sublaw 1:
+      - P1: []
+      - P2: []
+      - P3: []
+      - P4: []
+      - P5: []
+      - P1: []
+    - sublaw 2:
+      - P1: []
+    - sublaw 3:
+      - P1: []
+      - P1: []
+  - LAW 3:
+    - sublaw 1:
+      - P1: []
+    - sublaw 2:
+      - P1: []
+    - sublaw 3:
+      - P1: []
+      - subsublaw 2:
+        - P1: []
+      - subsublaw 3:
+        - P1: []
+      - subsublaw 4:
+        - P1: []
+      - subsublaw 5:
+        - P1: []
+        - P1: []
+        - P1: []
+    - sublaw 4:
+      - P1: []
+    - sublaw 5:
+      - P1: []
+      - P1: []
+  - LAW 4:
+    - sublaw 1:
+      - P1: []
+    - sublaw 2:
+      - P1: []
+    - sublaw 3:
+      - P1: []
+      - P2: []
+      - P3: []
+      - P4: []
+      - P5: []
+    - sublaw 4:
+      - P1: []
+  - LAW 5:
+    - P1: []
+    - sublaw 2:
+      - P1: []
+    - sublaw 3:
+      - P1: []
+      - P1: []
+    - sublaw 4:
+      - P1: []
+    - sublaw 5:
+      - P1: []
+      - P2: []
+      - P1: []
+  - LAW 6:
+    - LETTER 1:
+      - sublaw 1:
+        - P1: []
+      - sublaw 2:
+        - P1: []
+      - sublaw 3:
+        - P1: []
+        - P1: []
+        - P1: []
+        - P1: []
+        - P1: []
+        - P1: []
+        - P1: []
+      - sublaw 4:
+        - P1: []
+        - subsublaw 2:
+          - P1: []
+        - subsublaw 3:
+          - P1: []
+      - sublaw 5:
+        - P1: []
+      - sublaw 6:
+        - P1: []
+        - subsublaw 2:
+          - P1: []
+        - subsublaw 3:
+          - P1: []
+          - P1: []
+        - subsublaw 4:
+          - P1: []
+        - subsublaw 5:
+          - P1: []
+        - subsublaw 6:
+          - P1: []
+        - subsublaw 7:
+          - P1: []
+        - subsublaw 8:
+          - P1: []
+        - subsublaw 9:
+          - P1: []
+        - subsublaw 10:
+          - P1: []
+        - subsublaw 11:
+          - P1: []
+          - P1: []
+        - subsublaw 12:
+          - P1: []
+          - P1: []
+          - P2: []
+        - subsublaw 13:
+          - P1: []
+        - subsublaw 14:
+          - P1: []
+          - P2: []
+      - sublaw 7:
+        - P1: []
+        - P1: []
+        - subsublaw 3:
+          - P1: []
+        - subsublaw 4:
+          - P1: []
+        - subsublaw 5:
+          - P1: []
+          - P1: []
+          - P1: []
+          - P1: []
+          - penalty 5: []
+    - LETTER 2:
+      - sublaw 1:
+        - P1: []
+      - sublaw 2:
+        - P1: []
+      - sublaw 3:
+        - P1: []
+      - sublaw 4:
+        - P1: []
+      - sublaw 5:
+        - P1: []
+        - subsublaw 2:
+          - P1: []
+        - subsublaw 3:
+          - P1: []
+          - P2: []
+      - sublaw 6:
+        - P1: []
+      - sublaw 7:
+        - P1: []
+  - LAW 7:
+    - P1: []
+    - subsubsublaw 2:
+      - P1: []
+    - subsubsublaw 3:
+      - P1: []
+    - subsubsublaw 4:
+      - P1: []
+    - subsubsublaw 5:
+      - P1: []
+    - subsubsublaw 6:
+      - P1: []
+    - subsubsublaw 7:
+      - P1: []
+      - P2: []
+      - P1: []
+  - LAW 8:
+    - P1: []
+    - P2: []
+    - P1: []
+    - P1: []
+    - subsublaw 5:
+      - P1: []
+    - subsublaw 6:
+      - P1: []
+    - subsublaw 7:
+      - P1: []
+      - P1: []
+  - LAW 9:
+    - sublaw 1:
+      - P1: []
+      - subsublaw 2:
+        - P1: []
+      - subsublaw 3:
+        - P1: []
+        - P1: []
+        - P1: []
+        - P1: []
+  - LAW 10:
+    - P1: []
+    - sublaw 2:
+      - P1: []
+    - sublaw 3:
+      - P1: []
+    - sublaw 4:
+      - P1: []
+    - sublaw 5:
+      - P1: []
+    - sublaw 6:
+      - P1: []
+  - LAW 11:
+    - P1: []
+    - P2: []
+    - P3: []
+    - P4: []
+    - P5: []
+    - P6: []
+    - P7: []
+    - P8: []
+    - P9: []
+    - P10: []
+    - P11: []
+  - LAW 12:
+    - P1: []
+    - subsublaw 2:
+      - P1: []
+    - subsublaw 3:
+      - P1: []
+      - P1: []
+      - P1: []
+      - P2: []
+    - LETTER 1:
+      - sublaw 1:
+        - P1:
+          - subsubsublaw 1:
+            - P1: []
+          - subsubsublaw 2:
+            - P1: []
+      - sublaw 2:
+        - P1: []
+        - subsublaw 2:
+          - P1: []
+        - subsublaw 3:
+          - P1: []
+        - subsublaw 4:
+          - P1: []
+        - subsublaw 5:
+          - P1: []
+      - sublaw 3:
+        - P1: []
+      - sublaw 4:
+        - P1: []
+    - LETTER 2:
+      - P1: []
+      - subsubsublaw 2:
+        - P1: []
+      - subsubsublaw 3:
+        - P1: []
+    - LETTER 3:
+      - sublaw 1:
+        - P1: []
+      - sublaw 2:
+        - P1: []
+    - LETTER 4:
+      - P1: []
+  - LAW 13:
+    - sublaw 1:
+      - P1: []
+      - P2: []
+    - sublaw 2:
+      - P1: []
+      - subsublaw 2:
+        - P1: []
+      - subsublaw 3:
+        - P1: []
+      - subsublaw 4:
+        - P1: []
+      - subsublaw 5:
+        - P1: []
+      - subsublaw 6:
+        - P1: []
+    - sublaw 3:
+      - P1: []
+      - penalty 2:
+        - penalty sublaw 1:
+          - P1: []
+        - penalty sublaw 2:
+          - P1: []
+        - penalty sublaw 3:
+          - P1: []
+        - penalty sublaw 4:
+          - P1: []
+        - penalty sublaw 5:
+          - P1: []
+        - penalty sublaw 6:
+          - P1: []
+        - penalty sublaw 7:
+          - P1: []
+        - penalty sublaw 8:
+          - P1: []
+        - penalty sublaw 9:
+          - P1: []
+        - penalty sublaw 10:
+          - P1: []
+        - penalty sublaw 11:
+          - P1: []
+  - LAW 14:
+    - P1: []
+    - P2: []
+    - P3: []
+    - sublaw 4:
+      - P1: []
+      - subsublaw 2:
+        - P1: []
+        - P1: []
+        - P1: []
+      - subsublaw 3:
+        - P1: []
+      - subsublaw 4:
+        - P1: []
+      - subsublaw 5:
+        - P1: []
+        - P1: []
+        - P1: []
+        - P1: []
+        - P2: []
+    - sublaw 5:
+      - P1:
+        - subsubsublaw 1:
+          - P1: []
+        - subsubsublaw 2:
+          - P1: []
+          - P2: []
+      - subsublaw 2:
+        - P1: []
+      - subsublaw 3:
+        - P1: []
+      - subsublaw 4:
+        - P1: []
+      - subsublaw 5:
+        - P1: []
+        - subsubsublaw 2:
+          - P1: []
+        - subsubsublaw 3:
+          - P1: []
+      - subsublaw 6:
+        - P1: []
+        - subsubsublaw 2:
+          - P1: []
+        - subsubsublaw 3:
+          - P1: []
+      - notes 7:
+        - 'notes point i. ':
+          - P1: []
+          - notes sublaw 2:
+            - P1: []
+        - 'notes point ii. ':
+          - P1: []
+        - 'notes point iii. ':
+          - P1: []
+        - 'notes point iv. ':
+          - P1: []
+          - notes sublaw 2:
+            - P1: []
+        - 'notes point v. ':
+          - P1: []
+        - 'notes point vi. ':
+          - P1: []
+        - 'notes point vii. ':
+          - P1: []
+        - 'notes point viii. ':
+          - P1: []
+        - 'notes point ix. ':
+          - P1: []
+        - 'notes point x. ':
+          - P1: []
+  - LAW 15:
+    - P1: []
+    - sublaw 2:
+      - P1: []
+    - sublaw 3:
+      - P1: []
+    - notes 4:
+      - 'notes point i. ':
+        - P1: []
+    - sublaw 5:
+      - P1: []
+    - sublaw 6:
+      - P1: []
+    - sublaw 7:
+      - P1: []
+    - notes 8:
+      - 'notes point ii. ':
+        - P1: []
+      - 'notes point iii. ':
+        - P1: []
+  - LAW 16:
+    - subsublaw 1:
+      - P1: []
+      - P2: []
+    - subsublaw 2:
+      - P1: []
+    - sublaw 3:
+      - P1: []
+    - sublaw 4:
+      - P1: []
+    - notes 5:
+      - 'notes point i. ':
+        - P1: []
+      - 'notes point ii. ':
+        - P1: []
+  - LAW 17:
+    - P1: []
+    - subsublaw 2:
+      - P1: []
+    - subsublaw 3:
+      - P1: []
+    - subsublaw 4:
+      - P1: []
+      - P2: []
+    - notes 5:
+      - 'notes point i. ':
+        - P1: []
+      - 'notes point ii. ':
+        - P1: []
+    - sublaw 6:
+      - P1: []
+      - penalty 2: []
+    - sublaw 7:
+      - P1:
+        - subsubsublaw 1:
+          - P1: []
+        - subsubsublaw 2:
+          - P1: []
+        - subsubsublaw 3:
+          - P1: []
+      - notes 2:
+        - 'notes point iii. ':
+          - P1: []
+          - notes sublaw 2:
+            - P1: []
+          - notes sublaw 3:
+            - P1: []
+            - P2: []
+  - LAW 18:
+    - P1: []
+    - sublaw 2:
+      - P1: []
+    - notes 3:
+      - 'notes point i. ':
+        - P1: []
+    - sublaw 4:
+      - P1: []
+      - subsublaw 2:
+        - P1: []
+      - subsublaw 3:
+        - P1: []
+      - subsublaw 4:
+        - P1: []
+        - penalty 2: []
+    - sublaw 5:
+      - P1: []
+    - sublaw 6:
+      - P1: []
+    - notes 7:
+      - 'notes point ii. ':
+        - P1: []
+      - 'notes point iii. ':
+        - P1: []
+  - LAW 19:
+    - subsublaw 1:
+      - P1: []
+    - subsublaw 2:
+      - P1: []
+      - P2: []
+    - sublaw 3:
+      - P1: []
+    - sublaw 4:
+      - P1: []
+      - penalty 2: []
+  - LAW 20:
+    - P1: []
+    - P2: []
+    - P3: []
+    - notes 4:
+      - P1: []
+      - P2: []
+    - sublaw 5:
+      - P1: []
+    - sublaw 6:
+      - P1: []
+    - notes 7:
+      - 'notes point i. ':
+        - P1: []
+        - notes sublaw 2:
+          - P1: []
+        - notes sublaw 3:
+          - P1: []
+          - P2: []
+          - P3: []
+    - sublaw 8:
+      - P1: []
+    - sublaw 9:
+      - P1: []
+    - sublaw 10:
+      - P1: []
+    - notes 11:
+      - 'notes point ii. ':
+        - P1: []
+      - 'notes point iii. ':
+        - P1: []
+        - P2: []
+        - notes sublaw 3:
+          - P1: []
+        - notes sublaw 4:
+          - P1: []
+        - notes sublaw 5:
+          - P1: []
+        - notes sublaw 6:
+          - P1: []
+        - notes sublaw 7:
+          - P1: []
+          - P2: []
+    - sublaw 12:
+      - P1: []
+    - notes 13:
+      - 'notes point iv. ':
+        - P1: []
+        - P2: []
+    - sublaw 14:
+      - P1: []
+    - notes 15:
+      - 'notes point v. ':
+        - P1: []
+        - P2: []
+    - sublaw 16:
+      - P1: []
+      - subsublaw 2:
+        - P1: []
+      - subsublaw 3:
+        - P1: []
+      - subsublaw 4:
+        - P1: []
+        - subsubsublaw 2:
+          - P1: []
+        - subsubsublaw 3:
+          - P1: []
+    - sublaw 17:
+      - P1: []
+      - P2: []
+    - notes 18:
+      - 'notes point vi. ':
+        - P1: []
+        - P2: []
+    - sublaw 19:
+      - P1: []
+    - sublaw 20:
+      - P1: []
+    - notes 21:
+      - 'notes point vii. ':
+        - P1: []
+    - sublaw 22:
+      - P1: []
+      - P2: []
+      - subsublaw 3:
+        - P1: []
+      - subsublaw 4:
+        - P1: []
+      - subsublaw 5:
+        - P1: []
+    - notes 23:
+      - 'notes point viii. ':
+        - P1: []
+      - 'notes point ix. ':
+        - P1: []
+      - 'notes point x. ':
+        - P1: []
+      - 'notes point xi. ':
+        - P1: []
+        - P2: []
+    - sublaw 24:
+      - P1: []
+    - sublaw 25:
+      - P1: []
+      - subsublaw 2:
+        - P1: []
+      - subsublaw 3:
+        - P1: []
+      - subsublaw 4:
+        - P1: []
+      - subsublaw 5:
+        - P1: []
+      - subsublaw 6:
+        - P1: []
+      - subsublaw 7:
+        - P1: []
+    - notes 26:
+      - 'notes point xii. ':
+        - P1: []
+    - sublaw 27:
+      - P1: []
+    - notes 28:
+      - 'notes point xiii. ':
+        - P1: []
+      - penalty 2:
+        - P1: []
+        - P2: []
+  - LAW 21:
+    - P1: []
+    - notes 2:
+      - P1: []
+    - sublaw 3:
+      - P1: []
+    - notes 4:
+      - 'notes point i. ':
+        - P1: []
+    - sublaw 5:
+      - P1: []
+      - subsublaw 2:
+        - P1: []
+      - subsublaw 3:
+        - P1: []
+      - subsublaw 4:
+        - P1: []
+      - subsublaw 5:
+        - P1: []
+      - subsublaw 6:
+        - P1: []
+      - subsublaw 7:
+        - P1: []
+      - subsublaw 8:
+        - P1: []
+        - penalty 2:
+          - P1: []
+  - LAW 22:
+    - P1: []
+    - P2: []
+    - notes 3:
+      - P1: []
+    - sublaw 4:
+      - P1: []
+    - sublaw 5:
+      - P1: []
+    - sublaw 6:
+      - P1: []
+    - notes 7:
+      - 'notes point i. ':
+        - P1: []
+      - penalty 2:
+        - P1: []
+  - LAW 23:
+    - LETTER 1:
+      - sublaw 1:
+        - P1: []
+        - subsublaw 2:
+          - P1: []
+        - subsublaw 3:
+          - P1: []
+      - sublaw 2:
+        - P1: []
+      - notes 3:
+        - 'notes point i. ':
+          - P1: []
+        - 'notes point ii. ':
+          - P1: []
+        - 'notes point iii. ':
+          - P1: []
+          - notes sublaw 2:
+            - P1: []
+          - notes sublaw 3:
+            - P1: []
+        - 'notes point iv. ':
+          - P1: []
+        - 'notes point v. ':
+          - P1: []
+    - LETTER 2:
+      - P1: []
+      - P2: []
+      - sublaw 3:
+        - P1: []
+      - notes 4:
+        - 'notes point vi. ':
+          - P1: []
+      - sublaw 5:
+        - P1: []
+      - notes 6:
+        - 'notes point vii. ':
+          - P1: []
+      - sublaw 7:
+        - P1: []
+      - sublaw 8:
+        - P1: []
+      - sublaw 9:
+        - P1: []
+      - notes 10:
+        - 'notes point viii. ':
+          - P1: []
+        - 'notes point ix. ':
+          - P1: []
+          - P2: []
+      - sublaw 11:
+        - P1: []
+        - subsublaw 2:
+          - P1: []
+        - subsublaw 3:
+          - P1: []
+        - subsublaw 4:
+          - P1: []
+          - P2: []
+      - sublaw 12:
+        - P1: []
+      - sublaw 13:
+        - P1: []
+      - sublaw 14:
+        - P1: []
+        - subsublaw 2:
+          - P1: []
+        - subsublaw 3:
+          - P1: []
+        - subsublaw 4:
+          - P1: []
+          - P2: []
+          - P3: []
+      - notes 15:
+        - 'notes point x. ':
+          - P1: []
+      - sublaw 16:
+        - P1: []
+      - notes 17:
+        - 'notes point xi. ':
+          - P1: []
+          - P2: []
+      - sublaw 18:
+        - P1: []
+      - sublaw 19:
+        - P1: []
+        - subsublaw 2:
+          - P1: []
+        - subsublaw 3:
+          - P1: []
+        - subsublaw 4:
+          - P1: []
+        - subsublaw 5:
+          - P1: []
+        - subsublaw 6:
+          - P1: []
+      - notes 20:
+        - 'notes point xii. ':
+          - P1: []
+        - 'notes point xiii. ':
+          - P1: []
+          - P2: []
+          - P3: []
+          - P4: []
+          - P5: []
+          - P6: []
+          - P7: []
+      - sublaw 21:
+        - P1: []
+        - penalty 2:
+          - penalty sublaw 1:
+            - P1: []
+          - penalty sublaw 2:
+            - P1: []
+      - sublaw 22:
+        - P1: []
+        - P2: []
+      - sublaw 23:
+        - P1: []
+        - subsublaw 2:
+          - P1: []
+        - subsublaw 3:
+          - P1: []
+        - subsublaw 4:
+          - P1: []
+        - subsublaw 5:
+          - P1: []
+      - sublaw 24:
+        - P1: []
+        - subsublaw 2:
+          - P1: []
+        - subsublaw 3:
+          - P1: []
+        - subsublaw 4:
+          - P1: []
+      - sublaw 25:
+        - P1: []
+      - sublaw 26:
+        - P1: []
+      - notes 27:
+        - 'notes point xiv. ':
+          - P1: []
+      - sublaw 28:
+        - P1: []
+      - sublaw 29:
+        - P1: []
+      - notes 30:
+        - 'notes point xv. ':
+          - P1: []
+          - P2: []
+      - sublaw 31:
+        - P1: []
+        - subsublaw 2:
+          - P1: []
+        - subsublaw 3:
+          - P1: []
+        - subsublaw 4:
+          - P1: []
+          - penalty 2: []
+        - subsublaw 5:
+          - P1: []
+        - subsublaw 6:
+          - P1: []
+          - P2: []
+      - notes 32:
+        - 'notes point xvi. ':
+          - P1: []
+  - LAW 24:
+    - P1: []
+    - P2: []
+    - P3: []
+    - LETTER 1:
+      - sublaw 1:
+        - P1: []
+        - subsublaw 2:
+          - P1: []
+        - subsublaw 3:
+          - P1: []
+        - subsublaw 4:
+          - P1: []
+          - P2: []
+      - sublaw 2:
+        - P1: []
+        - subsublaw 2:
+          - P1: []
+        - subsublaw 3:
+          - P1: []
+          - P2: []
+          - penalty 3:
+            - penalty sublaw 1:
+              - P1: []
+            - penalty sublaw 2:
+              - P1: []
+            - penalty sublaw 3:
+              - P1: []
+          - penalty 4: []
+      - notes 3:
+        - 'notes point i. ':
+          - P1: []
+        - 'notes point ii. ':
+          - P1: []
+        - 'notes point iii. ':
+          - P1: []
+        - 'notes point iv. ':
+          - P1: []
+        - 'notes point v. ':
+          - P1: []
+        - 'notes point vi. ':
+          - P1: []
+        - 'notes point vii. ':
+          - P1: []
+        - 'notes point viii. ':
+          - P1: []
+        - 'notes point ix. ':
+          - P1: []
+        - 'notes point x. ':
+          - P1: []
+    - LETTER 2:
+      - P1: []
+      - P2: []
+      - sublaw 3:
+        - P1: []
+        - subsublaw 2:
+          - P1: []
+        - subsublaw 3:
+          - P1: []
+          - P1: []
+          - P1: []
+          - P2: []
+          - P3: []
+      - sublaw 4:
+        - P1: []
+        - penalty 2: []
+      - notes 5:
+        - 'notes point xi. ':
+          - P1: []
+        - 'notes point xii. ':
+          - P1: []
+        - 'notes point xiii. ':
+          - P1: []
+    - LETTER 3:
+      - P1: []
+      - sublaw 2:
+        - P1: []
+        - P2: []
+        - subsublaw 3:
+          - P1: []
+        - subsublaw 4:
+          - P1: []
+        - subsublaw 5:
+          - P1: []
+        - subsublaw 6:
+          - P1: []
+        - subsublaw 7:
+          - P1: []
+      - sublaw 3:
+        - P1: []
+        - P2: []
+        - subsublaw 3:
+          - P1: []
+        - subsublaw 4:
+          - P1: []
+        - subsublaw 5:
+          - P1: []
+          - penalty 2: []
+        - subsublaw 6:
+          - P1: []
+          - penalty 2: []
+      - notes 4:
+        - 'notes point xiv. ':
+          - P1: []
+    - LETTER 4:
+      - P1: []
+      - subsubsublaw 2:
+        - P1: []
+      - subsubsublaw 3:
+        - P1: []
+      - subsubsublaw 4:
+        - P1: []
+      - subsubsublaw 5:
+        - P1: []
+        - P2: []
+        - P3: []
+        - P4: []
+      - sublaw 6:
+        - P1: []
+        - subsublaw 2:
+          - P1: []
+        - subsublaw 3:
+          - P1: []
+        - subsublaw 4:
+          - P1: []
+        - subsublaw 5:
+          - P1: []
+          - penalty 2: []
+          - penalty 3: []
+      - notes 7:
+        - 'notes point xv. ':
+          - P1: []
+        - 'notes point xvi. ':
+          - P1: []
+        - 'notes point xvii. ':
+          - P1: []
+      - sublaw 8:
+        - P1: []
+        - subsublaw 2:
+          - P1: []
+        - subsublaw 3:
+          - P1: []
+        - subsublaw 4:
+          - P1: []
+        - subsublaw 5:
+          - P1: []
+      - notes 9:
+        - 'notes point xviii. ':
+          - P1: []
+          - P2: []
+      - sublaw 10:
+        - P1: []
+        - penalty 2: []
+      - notes 11:
+        - 'notes point xix. ':
+          - P1: []
+          - P2: []
+      - sublaw 12:
+        - P1: []
+        - penalty 2: []
+      - notes 13:
+        - 'notes point xx. ':
+          - P1: []
+  - LAW 25:
+    - P1: []
+    - P2: []
+    - sublaw 3:
+      - P1: []
+      - subsublaw 2:
+        - P1: []
+      - subsublaw 3:
+        - P1: []
+      - subsublaw 4:
+        - P1: []
+        - P2: []
+    - notes 4:
+      - 'notes point i. ':
+        - P1: []
+        - P2: []
+    - sublaw 5:
+      - P1: []
+      - subsublaw 2:
+        - P1: []
+      - subsublaw 3:
+        - P1: []
+      - subsublaw 4:
+        - P1: []
+        - P2: []
+        - P3: []
+    - sublaw 6:
+      - P1: []
+      - subsublaw 2:
+        - P1: []
+      - subsublaw 3:
+        - P1: []
+        - P2: []
+    - notes 7:
+      - 'notes point ii. ':
+        - P1: []
+      - 'notes point iii. ':
+        - P1: []
+  - LAW 26:
+    - P1: []
+    - P2: []
+    - sublaw 3:
+      - P1: []
+      - subsublaw 2:
+        - P1: []
+      - subsublaw 3:
+        - P1: []
+      - subsublaw 4:
+        - P1: []
+      - subsublaw 5:
+        - P1: []
+        - penalty 2: []
+    - notes 4:
+      - 'notes point i. ':
+        - P1: []
+      - 'notes point ii. ':
+        - P1: []
+        - notes sublaw 2:
+          - P1: []
+        - notes sublaw 3:
+          - P1: []
+        - notes sublaw 4:
+          - P1: []
+    - sublaw 5:
+      - P1: []
+      - P2: []
+      - subsublaw 3:
+        - P1: []
+      - subsublaw 4:
+        - P1: []
+      - subsublaw 5:
+        - P1: []
+      - subsublaw 6:
+        - P1: []
+        - penalty 2: []
+    - sublaw 6:
+      - P1: []
+      - P2: []
+      - subsublaw 3:
+        - P1: []
+      - subsublaw 4:
+        - P1: []
+      - subsublaw 5:
+        - P1: []
+      - subsublaw 6:
+        - P1: []
+      - subsublaw 7:
+        - P1: []
+      - subsublaw 8:
+        - P1: []
+      - subsublaw 9:
+        - P1: []
+      - subsublaw 10:
+        - P1: []
+        - P1: []
+        - penalty 3:
+          - P1: []
+          - penalty sublaw 2:
+            - P1: []
+          - penalty sublaw 3:
+            - P1: []
+            - penalty sublaw 2:
+              - P1: []
+            - penalty sublaw 3:
+              - P1: []
+          - penalty sublaw 4:
+            - P1: []
+          - penalty sublaw 5:
+            - P1: []
+          - penalty sublaw 6:
+            - P1: []
+            - P2: []
+            - P3: []
+            - P1: []
+          - penalty sublaw 7:
+            - P1: []
+          - penalty sublaw 8:
+            - P1: []
+            - penalty sublaw 2:
+              - P1: []
+            - penalty sublaw 3:
+              - P1: []
+            - penalty sublaw 4:
+              - P1: []
+          - penalty sublaw 9:
+            - P1: []
+    - notes 7:
+      - 'notes point iii. ':
+        - P1: []
+      - 'notes point iv. ':
+        - P1: []
+      - 'notes point v. ':
+        - P1: []
+        - notes sublaw 2:
+          - P1: []
+        - notes sublaw 3:
+          - P1: []
+      - 'notes point vi. ':
+        - P1: []
+      - 'notes point vii. ':
+        - P1: []
+      - 'notes point viii. ':
+        - P1: []
+        - notes sublaw 2:
+          - P1: []
+        - notes sublaw 3:
+          - P1: []
+      - 'notes point ix. ':
+        - P1: []
+        - notes sublaw 2:
+          - P1: []
+        - notes sublaw 3:
+          - P1: []
+        - notes sublaw 4:
+          - P1: []
+      - 'notes point x. ':
+        - P1: []
+        - notes sublaw 2:
+          - P1: []
+        - notes sublaw 3:
+          - P1: []
+        - notes sublaw 4:
+          - P1: []
+        - notes sublaw 5:
+          - P1: []
+        - notes sublaw 6:
+          - P1: []
+        - notes sublaw 7:
+          - P1: []
+      - 'notes point xi. ':
+        - P1: []
+        - P2: []
+        - P3: []
+        - P4: []
+        - P5: []
+        - notes sublaw 6:
+          - P1: []
+        - notes sublaw 7:
+          - P1: []
+        - notes sublaw 8:
+          - P1: []
+        - notes sublaw 9:
+          - P1: []
+          - P2: []
+        - notes sublaw 10:
+          - P1: []
+          - P2: []
+          - P3: []
+  - LAW 27:
+    - P1: []
+    - sublaw 2:
+      - P1: []
+    - sublaw 3:
+      - P1: []
+      - subsublaw 2:
+        - P1: []
+      - subsublaw 3:
+        - P1: []
+      - subsublaw 4:
+        - P1: []
+      - subsublaw 5:
+        - P1: []
+      - subsublaw 6:
+        - P1: []
+        - P2: []
+      - subsublaw 7:
+        - P1: []
+        - penalty 2:
+          - penalty sublaw 1:
+            - P1: []
+    - notes 4:
+      - 'notes point i. ':
+        - P1: []
+      - 'notes point ii. ':
+        - P1: []
+      - 'notes point iii. ':
+        - P1: []
+      - 'notes point iv. ':
+        - P1: []
+      - 'notes point v. ':
+        - P1: []
+      - 'notes point vi. ':
+        - P1: []
+      - 'notes point vii. ':
+        - P1: []
+      - 'notes point viii. ':
+        - P1: []
+      - 'notes point ix. ':
+        - P1: []
+      - 'notes point x. ':
+        - P1: []
+      - 'notes point xi. ':
+        - P1: []
+      - 'notes point xii. ':
+        - P1: []
+  - LAW 28:
+    - P1: []
+    - P2: []
+    - P3: []
+    - P4: []
+    - sublaw 5:
+      - P1: []
+    - sublaw 6:
+      - P1: []
+    - sublaw 7:
+      - P1: []
+    - sublaw 8:
+      - P1: []
+    - sublaw 9:
+      - P1: []
+    - sublaw 10:
+      - P1: []
+    - sublaw 11:
+      - P1: []
+    - sublaw 12:
+      - P1: []
+      - P2: []
+    - sublaw 13:
+      - P1: []
+    - sublaw 14:
+      - P1: []
+    - sublaw 15:
+      - P1: []
+      - penalty 2:
+        - penalty sublaw 1:
+          - P1: []
+    - notes 16:
+      - 'notes point i. ':
+        - P1: []
+      - 'notes point ii. ':
+        - P1: []
+      - 'notes point iii. ':
+        - P1: []
+      - 'notes point iv. ':
+        - P1: []
+      - 'notes point v. ':
+        - P1: []
+      - 'notes point vi. ':
+        - P1: []
+      - 'notes point vii. ':
+        - P1: []
+      - 'notes point viii. ':
+        - P1: []
+      - 'notes point ix. ':
+        - P1: []
+      - 'notes point x. ':
+        - P1: []
+      - 'notes point xi. ':
+        - P1: []
+- DEFINITIONS:
+  - definitions 1: []
+  - definitions 2: []
+  - definitions 3: []
+  - definitions 4: []
+  - definitions 5: []
+  - definitions 6: []
+  - definitions 7: []
+  - definitions 8: []
+  - definitions 9: []
+  - definitions 10: []
+  - definitions 11: []
+  - definitions 12: []
+  - definitions 13: []
