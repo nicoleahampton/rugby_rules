@@ -1,0 +1,36 @@
+(full ruleset):
+- (main ruleset):
+  - LETTER 1: []
+  - P2:
+    - subsublaw 1: []
+    - subsublaw 2: []
+    - subsublaw 3: []
+    - subsublaw 4: []
+    - subsublaw 5: []
+  - LETTER 2: []
+  - P2: []
+  - P3:
+    - sublaw 1: []
+    - sublaw 2: []
+    - sublaw 3: []
+    - sublaw 4: []
+    - sublaw 5: []
+    - P2: []
+    - sublaw 7: []
+    - sublaw 8: []
+    - sublaw 9:
+      - subsublaw 1: []
+      - subsublaw 2: []
+    - sublaw 10: []
+    - sublaw 11: []
+    - P2: []
+    - sublaw 13:
+      - subsublaw 1: []
+      - subsublaw 2: []
+      - subsublaw 3: []
+    - sublaw 14:
+      - subsublaw 1: []
+      - subsublaw 2: []
+      - subsublaw 3: []
+      - subsublaw 4:
+        - penalty 1: []

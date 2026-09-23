@@ -1,0 +1,129 @@
+(full ruleset):
+- (main ruleset):
+  - sublaw 1: []
+  - P2: []
+  - P3: []
+  - P4: []
+  - P5: []
+  - P6: []
+  - P7: []
+  - P8: []
+  - P9: []
+  - P10:
+    - subsublaw 1: []
+    - subsublaw 2: []
+    - subsublaw 3: []
+    - subsublaw 4:
+      - penalty/exception 1: []
+    - subsublaw 5:
+      - penalty/exception 1: []
+      - penalty/exception 2: []
+      - penalty/exception 3: []
+    - subsublaw 6:
+      - penalty/exception 1: []
+    - subsublaw 7:
+      - penalty/exception 1: []
+    - subsublaw 8: []
+    - subsublaw 9:
+      - penalty/exception 1: []
+    - subsublaw 10:
+      - penalty/exception 1: []
+    - subsublaw 11:
+      - penalty/exception 1: []
+    - subsublaw 12:
+      - penalty/exception 1: []
+    - subsublaw 13:
+      - penalty/exception 1: []
+    - subsublaw 14:
+      - penalty/exception 1: []
+    - subsublaw 15:
+      - penalty/exception 1: []
+    - subsublaw 16:
+      - penalty/exception 1: []
+    - subsublaw 17:
+      - penalty/exception 1: []
+    - subsublaw 18: []
+    - subsublaw 19:
+      - penalty/exception 1: []
+    - subsublaw 20:
+      - penalty/exception 1: []
+    - subsublaw 21: []
+    - subsublaw 22: []
+    - subsublaw 23: []
+    - subsublaw 24: []
+    - subsublaw 25: []
+    - subsublaw 26: []
+    - subsublaw 27: []
+    - subsublaw 28: []
+    - subsublaw 29: []
+    - P1:
+      - penalty/exception 1: []
+    - subsublaw 31:
+      - penalty/exception 1: []
+    - subsublaw 32:
+      - penalty/exception 1: []
+    - subsublaw 33:
+      - penalty/exception 1: []
+    - subsublaw 34:
+      - penalty/exception 1: []
+    - subsublaw 35:
+      - penalty/exception 1: []
+    - subsublaw 36: []
+    - subsublaw 37: []
+    - subsublaw 38: []
+    - subsublaw 39:
+      - penalty/exception 1: []
+    - subsublaw 40: []
+    - subsublaw 41:
+      - penalty/exception 1: []
+    - subsublaw 42: []
+    - subsublaw 43:
+      - penalty/exception 1: []
+    - subsublaw 44:
+      - penalty/exception 1: []
+    - subsublaw 45:
+      - penalty/exception 1: []
+    - subsublaw 46:
+      - penalty/exception 1: []
+    - subsublaw 47:
+      - penalty/exception 1: []
+    - subsublaw 48:
+      - penalty/exception 1: []
+    - subsublaw 49:
+      - penalty/exception 1: []
+    - subsublaw 50:
+      - penalty/exception 1: []
+    - subsublaw 51:
+      - penalty/exception 1: []
+    - subsublaw 52:
+      - penalty/exception 1: []
+    - subsublaw 53:
+      - penalty/exception 1: []
+    - subsublaw 54:
+      - penalty/exception 1: []
+    - subsublaw 55:
+      - penalty/exception 1: []
+    - subsublaw 56:
+      - penalty/exception 1: []
+    - subsublaw 57: []
+    - subsublaw 58: []
+    - subsublaw 59: []
+    - subsublaw 60: []
+    - subsublaw 61: []
+    - subsublaw 62: []
+    - subsublaw 63:
+      - penalty/exception 1: []
+    - subsublaw 64:
+      - penalty/exception 1: []
+    - subsublaw 65:
+      - penalty/exception 1: []
+    - subsublaw 66:
+      - penalty/exception 1: []
+    - subsublaw 67:
+      - penalty/exception 1: []
+    - subsublaw 68:
+      - penalty/exception 1: []
+    - subsublaw 69: []
+    - subsublaw 70:
+      - penalty/exception 1:
+        - P1: []

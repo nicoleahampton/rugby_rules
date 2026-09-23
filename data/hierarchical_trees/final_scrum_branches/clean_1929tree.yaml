@@ -1,0 +1,17 @@
+(full ruleset):
+- (main ruleset): []
+- P2: []
+- P3: []
+- P4: []
+- P5: []
+- P6:
+  - sublaw 1: []
+  - sublaw 2: []
+  - P2: []
+  - P3: []
+  - P4: []
+  - sublaw 6: []
+  - sublaw 7: []
+  - sublaw 8: []
+  - sublaw 9:
+    - penalty 1: []

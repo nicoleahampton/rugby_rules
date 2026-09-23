@@ -1,0 +1,128 @@
+(full ruleset):
+- (main ruleset):
+  - sublaw 1: []
+  - P2: []
+  - P3: []
+  - P4: []
+  - P5: []
+  - P6: []
+  - P7: []
+  - P8: []
+  - P9: []
+  - P10: []
+  - sublaw 11:
+    - subsublaw 1: []
+    - subsublaw 2: []
+    - subsublaw 3: []
+    - subsublaw 4: []
+    - subsublaw 5:
+      - 'penalty/exception ': []
+    - subsublaw 6:
+      - 'penalty/exception ': []
+      - 'penalty/exception ': []
+      - P2: []
+      - 'penalty/exception ': []
+    - subsublaw 7: []
+    - subsublaw 8:
+      - 'penalty/exception ': []
+    - subsublaw 9: []
+    - subsublaw 10:
+      - 'penalty/exception ': []
+    - subsublaw 11:
+      - 'penalty/exception ': []
+  - sublaw 12:
+    - subsublaw 1:
+      - 'penalty/exception ': []
+    - subsublaw 2:
+      - 'penalty/exception ': []
+  - sublaw 13:
+    - subsublaw 1:
+      - 'penalty/exception ': []
+    - subsublaw 2:
+      - 'penalty/exception ': []
+    - subsublaw 3:
+      - 'penalty/exception ': []
+    - subsublaw 4:
+      - 'penalty/exception ': []
+    - subsublaw 5:
+      - 'penalty/exception ': []
+    - subsublaw 6:
+      - 'penalty/exception ': []
+    - subsublaw 7: []
+    - subsublaw 8: []
+  - sublaw 14:
+    - subsublaw 1: []
+    - subsublaw 2: []
+    - subsublaw 3: []
+    - subsublaw 4: []
+  - sublaw 15:
+    - subsublaw 1: []
+    - subsublaw 2:
+      - 'penalty/exception ': []
+  - sublaw 16:
+    - subsublaw 1: []
+    - subsublaw 2: []
+    - subsublaw 3: []
+    - subsublaw 4: []
+    - subsublaw 5:
+      - 'penalty/exception ': []
+  - sublaw 17:
+    - subsublaw 1: []
+    - subsublaw 2: []
+    - subsublaw 3: []
+    - subsublaw 4: []
+  - sublaw 18:
+    - subsublaw 1:
+      - 'penalty/exception ': []
+    - subsublaw 2: []
+    - subsublaw 3:
+      - 'penalty/exception ': []
+    - subsublaw 4: []
+    - subsublaw 5:
+      - 'penalty/exception ': []
+    - subsublaw 6:
+      - 'penalty/exception ': []
+    - subsublaw 7:
+      - 'penalty/exception ': []
+    - subsublaw 8:
+      - 'penalty/exception ': []
+    - subsublaw 9:
+      - 'penalty/exception ': []
+  - sublaw 19:
+    - subsublaw 1:
+      - 'penalty/exception ': []
+    - subsublaw 2:
+      - 'penalty/exception ': []
+    - subsublaw 3:
+      - 'penalty/exception ': []
+    - subsublaw 4:
+      - 'penalty/exception ': []
+    - subsublaw 5:
+      - 'penalty/exception ': []
+    - subsublaw 6:
+      - 'penalty/exception ': []
+    - subsublaw 7:
+      - 'penalty/exception ': []
+    - subsublaw 8:
+      - 'penalty/exception ': []
+    - subsublaw 9:
+      - 'penalty/exception ': []
+  - sublaw 20:
+    - subsublaw 1: []
+    - subsublaw 2: []
+    - subsublaw 3: []
+  - sublaw 21:
+    - subsublaw 1: []
+    - subsublaw 2: []
+  - sublaw 22: []
+  - P2:
+    - subsublaw 1: []
+    - subsublaw 2: []
+    - subsublaw 3: []
+    - subsublaw 4: []
+    - subsublaw 5:
+      - 'penalty/exception ': []
+    - subsublaw 6:
+      - 'penalty/exception ': []
+    - subsublaw 7:
+      - 'penalty/exception ': []

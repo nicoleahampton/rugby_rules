@@ -1,0 +1,63 @@
+(full ruleset):
+- (main ruleset): []
+- P2: []
+- P3: []
+- P4:
+  - sublaw 1: []
+  - sublaw 2:
+    - 'notes i. ': []
+    - 'notes ii. ': []
+    - ruling 3: []
+    - 'notes iii. ': []
+    - 'notes iv. ': []
+  - sublaw 3:
+    - 'notes v. ': []
+  - sublaw 4: []
+  - P2:
+    - penalty 1: []
+    - penalty sublaw 2: []
+    - subsubsublaw 1: []
+    - subsubsublaw 2: []
+    - subsubsublaw 3: []
+    - subsubsublaw 4: []
+    - penalty sublaw 5: []
+  - 'notes vi. ': []
+  - 'notes vii. ': []
+  - 'notes viii. ': []
+  - 'notes ix. ': []
+  - 'notes x. ':
+    - subsubsublaw 1: []
+    - subsubsublaw 2: []
+    - subsubsublaw 3: []
+  - sublaw 11: []
+  - P2: []
+  - sublaw 13:
+    - 'notes xi. ': []
+  - sublaw 14:
+    - 'notes xii. ': []
+    - 'notes xiii. ': []
+  - sublaw 15:
+    - subsubsublaw 1: []
+    - subsubsublaw 2: []
+  - sublaw 16: []
+  - sublaw 17:
+    - 'notes xiv. ': []
+  - sublaw 18: []
+  - sublaw 19:
+    - 'notes xv. ':
+      - notes sublaw 1: []
+      - notes sublaw 2: []
+      - notes sublaw 3: []
+      - notes sublaw 4: []
+    - 'notes xvi. ': []
+    - 'notes xvii. ': []
+    - 'notes xviii. ': []
+  - sublaw 20: []
+  - sublaw 21:
+    - 'notes xix. ': []
+  - sublaw 22: []
+  - P2: []
+  - sublaw 24:
+    - 'notes xx. ': []
+    - penalty 2: []
+    - subsublaw 3: []

@@ -1,0 +1,108 @@
+(full ruleset):
+- (main ruleset):
+  - sublaw 1: []
+  - sublaw 2: []
+  - sublaw 3: []
+  - sublaw 4:
+    - penalty 1: []
+  - sublaw 5:
+    - penalty 1: []
+  - sublaw 6: []
+  - sublaw 7:
+    - a: []
+    - b: []
+    - c: []
+    - d:
+      - penalty 1: []
+  - sublaw 8: []
+  - sublaw 9: []
+  - sublaw 10:
+    - a: []
+    - b: []
+    - c:
+      - penalty 1: []
+  - sublaw 11:
+    - a: []
+    - b: []
+    - c: []
+    - d:
+      - penalty 1: []
+  - sublaw 12:
+    - a: []
+    - b: []
+    - c: []
+    - d:
+      - penalty 1: []
+  - sublaw 13: []
+  - sublaw 14: []
+  - sublaw 15:
+    - a: []
+    - b: []
+    - c: []
+    - d: []
+    - e: []
+    - f: []
+    - g:
+      - penalty 1: []
+  - sublaw 16: []
+  - sublaw 17:
+    - penalty 1: []
+  - sublaw 18: []
+  - sublaw 19:
+    - penalty 1: []
+  - sublaw 20:
+    - penalty 1: []
+  - sublaw 21:
+    - penalty 1: []
+  - sublaw 22:
+    - penalty 1: []
+  - sublaw 23:
+    - penalty 1: []
+  - sublaw 24:
+    - penalty 1: []
+  - sublaw 25: []
+  - sublaw 26:
+    - penalty 1: []
+  - sublaw 27: []
+  - sublaw 28:
+    - a: []
+    - b: []
+  - sublaw 29: []
+  - sublaw 30:
+    - a: []
+    - b: []
+    - c: []
+  - sublaw 31: []
+  - sublaw 32:
+    - penalty 1: []
+  - sublaw 33: []
+  - sublaw 34:
+    - a: []
+    - b: []
+    - c: []
+    - d: []
+    - e:
+      - penalty 1: []
+  - sublaw 35: []
+  - sublaw 36:
+    - a: []
+    - b: []
+    - c: []
+    - d: []
+    - e: []
+  - sublaw 37:
+    - a: []
+    - b: []
+    - c: []
+    - d: []
+    - e:
+      - penalty 1: []
+  - sublaw 38:
+    - a: []
+    - b: []
+    - c:
+      - penalty 1: []
+    - d: []
+    - e: []
+    - f:
+      - penalty 1: []
